@@ -1,10 +1,34 @@
-import Link from "next/link";
-import { getCollectionProducts } from "@/lib/data";
-import { ProductCard } from "@/components/product-card";
+import { getProduct } from "@/lib/data";
 import { HeroSpecBanner } from "@/components/hero-spec-banner";
+import { KitsPartsCarousel } from "@/components/kits-parts-carousel";
+import { ExpandableHeroVideo } from "@/components/expandable-hero-video";
+
+const KITS_PARTS_HANDLES = [
+  "xl-100v-gt-one-upgrade-kit-crazy-cart-xl-upgrade",
+  "tottoms-belt-drive-pro-kit",
+  "budgetbrushlesskit",
+  "adjustable-cushioned-seat-upgrade",
+  "tottoms-7070-motor-mount-for-oem-stock-fork",
+  "tottoms-sealed-headset",
+  "72t-belt-drive-rim-200x50",
+  "120mm-brake-disc-replacement",
+  "zoom-hydraulic-crazy-cart-brake",
+  "pro-fork-single-pin-adjustment-motor-mount",
+  "tottoms-brake-mount-for-pro-fork",
+  "520mm-reinforced-belt-replacement",
+  "brushless-kit-phase-wires",
+  "hall-sensor-cable-replacement",
+  "vesc-throttle-cable-adapter-for-flipsky-controllers",
+  "vesc-75v100-crazy-cart-mounting-plate",
+  "cst-200x50-tire-3x-bundle",
+  "stock-24v-battery-standard-size",
+  "stock-250w-crazy-cart-motor-standard-size",
+];
 
 export default function HomePage() {
-  const kitsProducts = getCollectionProducts("kits");
+  const kitsPartsProducts = KITS_PARTS_HANDLES.map(getProduct).filter(
+    (p): p is NonNullable<typeof p> => Boolean(p)
+  );
 
   return (
     <>
@@ -39,20 +63,13 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Featured products */}
-      <section className="page-width py-16 md:py-24">
-        <div className="flex items-end justify-between mb-8">
-          <h2 className="text-2xl md:text-3xl font-semibold">Kits &amp; Parts</h2>
-          <Link href="/collections/kits" className="text-sm text-muted hover:text-foreground">
-            View all
-          </Link>
-        </div>
-        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-6 gap-y-10">
-          {kitsProducts.map((product) => (
-            <ProductCard key={product.handle} product={product} />
-          ))}
-        </div>
-      </section>
+      <KitsPartsCarousel
+        title="KITS & PARTS"
+        subtitle="We've Got the Parts to Keep You Sideways."
+        products={kitsPartsProducts}
+        viewAllHref="/collections"
+        viewAllLabel="View Parts"
+      />
 
       {/* Testimonial */}
       <section className="bg-surface-solid py-16 md:py-20">
@@ -66,6 +83,8 @@ export default function HomePage() {
           </cite>
         </div>
       </section>
+
+      <ExpandableHeroVideo videoSrc="https://cdn.shopify.com/videos/c/o/v/5ad49ba5da774be2b90dc873d87b6fc1.mp4" />
     </>
   );
 }
