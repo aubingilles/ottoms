@@ -62,7 +62,7 @@ export function KitsPartsCarousel({
 
         <div
           ref={trackRef}
-          className="kpc-track flex gap-5 overflow-x-auto scroll-smooth mb-8 pt-2.5"
+          className="flex gap-5 overflow-x-auto scroll-smooth mb-8 pt-2.5 [&::-webkit-scrollbar]:hidden"
           style={{ scrollbarWidth: "none" }}
         >
           {products.map((product) => {
@@ -75,7 +75,7 @@ export function KitsPartsCarousel({
               <Link
                 key={product.handle}
                 href={`/products/${product.handle}`}
-                className="kpc-card flex-none flex flex-col"
+                className="flex shrink-0 grow-0 basis-[85%] sm:basis-[calc((100%_-_40px)/3)] lg:basis-[calc((100%_-_80px)/5)] flex-col"
               >
                 <div className="bg-white rounded-xl p-5 text-center transition-shadow hover:shadow-[0_4px_12px_rgba(0,0,0,0.08)] mb-4">
                   <div className="relative w-full pb-[75%] overflow-hidden rounded-lg bg-white">
@@ -113,25 +113,6 @@ export function KitsPartsCarousel({
           </Link>
         </div>
       </div>
-
-      <style jsx>{`
-        .kpc-track::-webkit-scrollbar {
-          display: none;
-        }
-        .kpc-card {
-          flex-basis: calc((100% - 4 * 20px) / 5);
-        }
-        @media screen and (max-width: 989px) {
-          .kpc-card {
-            flex-basis: calc((100% - 2 * 20px) / 3);
-          }
-        }
-        @media screen and (max-width: 749px) {
-          .kpc-card {
-            flex-basis: 85%;
-          }
-        }
-      `}</style>
     </section>
   );
 }
