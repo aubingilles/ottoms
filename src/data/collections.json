@@ -1,0 +1,180 @@
+{
+  "kits": {
+    "id": 303594668188,
+    "handle": "kits",
+    "title": "Crazy Cart Upgrade Kits",
+    "descriptionHtml": "<p><meta charset=\"utf-8\">Already have a kart? Grab one of our plug-n-play kits built for more power, more speed, and better control.</p>",
+    "image": "https://cdn.shopify.com/s/files/1/0639/5297/8076/collections/Blue_Black_Black.jpg?v=1767636952",
+    "productHandles": [
+      "xl-100v-gt-one-upgrade-kit-crazy-cart-xl-upgrade",
+      "tottoms-belt-drive-pro-kit",
+      "budgetbrushlesskit",
+      "4000w-chain-drive-street-kit-for-standard-crazy-cart-copy",
+      "beltconversionkit",
+      "tottoms-7070-motor-mount-for-oem-stock-fork"
+    ]
+  },
+  "wheels-tires": {
+    "id": 303594733724,
+    "handle": "wheels-tires",
+    "title": "Wheels & Tires",
+    "descriptionHtml": "<p><meta charset=\"utf-8\">Wheels, tires, and supporting parts built to improve grip, durability, and ride feel. </p>",
+    "image": "https://cdn.shopify.com/s/files/1/0639/5297/8076/collections/Tires.jpg?v=1767638372",
+    "productHandles": [
+      "72t-belt-drive-rim-200x50",
+      "520mm-reinforced-belt-replacement",
+      "cst-200x50-tire-3x-bundle",
+      "120mm-brake-disc-replacement",
+      "550mm-reinforced-belt-replacement",
+      "stock-200x50-tire"
+    ]
+  },
+  "merch": {
+    "id": 303594799260,
+    "handle": "merch",
+    "title": "Merch",
+    "descriptionHtml": "<p><meta charset=\"utf-8\">Tottoms merch made for riders, builders, and the Crazy Cart community. </p>",
+    "image": "https://cdn.shopify.com/s/files/1/0639/5297/8076/collections/Tottoms_hoodie.jpg?v=1730083364",
+    "productHandles": [
+      "tottoms-themini86-tee",
+      "dont-drop-the-bar-tee-black",
+      "dont-drop-the-bar-tee",
+      "nissan-gtr-tee"
+    ]
+  },
+  "tottoms-standalone-forks": {
+    "id": 304112861340,
+    "handle": "tottoms-standalone-forks",
+    "title": "Upgraded Forks",
+    "descriptionHtml": "<p><meta charset=\"utf-8\">Stronger upgraded forks designed for better durability, hydraulic brake compatibility, and increased front end rigidity.</p>",
+    "image": "https://cdn.shopify.com/s/files/1/0639/5297/8076/collections/Forks.jpg?v=1767636844",
+    "productHandles": [
+      "tottoms-pro-fork-w-hydraulic-brake-upgrade",
+      "zoom-hydraulic-crazy-cart-brake",
+      "pro-fork-single-pin-adjustment-motor-mount",
+      "tottoms-brake-mount-for-pro-fork"
+    ]
+  },
+  "stock-parts": {
+    "id": 309613822108,
+    "handle": "stock-parts",
+    "title": "Stock Parts",
+    "descriptionHtml": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">Original manufacturer replacement parts for stock Crazy Carts. <br></p>",
+    "image": "https://cdn.shopify.com/s/files/1/0639/5297/8076/collections/StockMotor2.jpg?v=1782229185",
+    "productHandles": [
+      "stock-250w-crazy-cart-motor-standard-size",
+      "stock-24v-battery-standard-size"
+    ]
+  },
+  "pedals": {
+    "id": 310403924124,
+    "handle": "pedals",
+    "title": "Tottoms Pedals",
+    "descriptionHtml": "<p><meta charset=\"utf-8\">Upgrade the look, feel, and throttle control of your Crazy Cart with a taller, more confident pedal design.</p>",
+    "image": "https://cdn.shopify.com/s/files/1/0639/5297/8076/collections/Pedals-2.jpg?v=1767642016",
+    "productHandles": [
+      "tottoms-slotted-foot-pedal-standard-xl-compatible",
+      "tottoms-foot-pedal-standard-xl-compatible"
+    ]
+  },
+  "sealed-headset": {
+    "id": 316294693020,
+    "handle": "sealed-headset",
+    "title": "Sealed Headsets",
+    "descriptionHtml": "<p><meta charset=\"utf-8\">Gives your Crazy Cart a smoother, tighter, and more reliable steering feel compared to the stock setup.</p>",
+    "image": "https://cdn.shopify.com/s/files/1/0639/5297/8076/collections/DSC06969_0004_Removetooledits.jpg?v=1767636912",
+    "productHandles": [
+      "tottoms-sealed-headset"
+    ]
+  },
+  "replacement-belts": {
+    "id": 322382659740,
+    "handle": "replacement-belts",
+    "title": "Replacement Belts",
+    "descriptionHtml": "<p><meta charset=\"utf-8\">Replacement belts for Tottoms belt drive setups.</p>",
+    "image": "https://cdn.shopify.com/s/files/1/0639/5297/8076/collections/520mmbelt.jpg?v=1767640729",
+    "productHandles": [
+      "520mm-reinforced-belt-replacement",
+      "550mm-reinforced-belt-replacement",
+      "15t-d-shaft-htd5m-belt-drive-sprocket-10mm-bore"
+    ]
+  },
+  "brakes-hardware": {
+    "id": 322383347868,
+    "handle": "brakes-hardware",
+    "title": "Brakes & Hardware",
+    "descriptionHtml": "<p><meta charset=\"utf-8\">Brake kits, hardware, and replacement components.</p>",
+    "image": "https://cdn.shopify.com/s/files/1/0639/5297/8076/collections/Brake_0001_2.jpg?v=1767641283",
+    "productHandles": [
+      "120mm-brake-disc-replacement",
+      "zoom-hydraulic-crazy-cart-brake",
+      "tottoms-brake-mount-for-pro-fork"
+    ]
+  },
+  "motor-mounts-1": {
+    "id": 322383446172,
+    "handle": "motor-mounts-1",
+    "title": "Motor Mounts",
+    "descriptionHtml": "<p><meta charset=\"utf-8\">Stronger motor mounts built for upgraded Crazy Cart power systems. </p>",
+    "image": "https://cdn.shopify.com/s/files/1/0639/5297/8076/collections/proforkmotormount.jpg?v=1767641451",
+    "productHandles": [
+      "beltconversionkit",
+      "tottoms-7070-motor-mount-for-oem-stock-fork",
+      "pro-fork-single-pin-adjustment-motor-mount"
+    ]
+  },
+  "vesc-controller-parts": {
+    "id": 322383478940,
+    "handle": "vesc-controller-parts",
+    "title": "VESC Controller & Parts",
+    "descriptionHtml": "<p><meta charset=\"utf-8\">VESC controllers, wiring, and supporting parts built for reliable Crazy Cart performance.</p>",
+    "image": "https://cdn.shopify.com/s/files/1/0639/5297/8076/collections/75v100VESCPlate.jpg?v=1774641877",
+    "productHandles": [
+      "pre-tuned-vesc-75v100a-controller",
+      "vesc-75v100-crazy-cart-mounting-plate",
+      "vesc-throttle-cable-adapter-for-flipsky-controllers",
+      "hall-sensor-cable-replacement",
+      "brushless-kit-phase-wires"
+    ]
+  },
+  "brushless-replacement-wires": {
+    "id": 322383511708,
+    "handle": "brushless-replacement-wires",
+    "title": "Brushless Replacement Wires",
+    "descriptionHtml": "<p><meta charset=\"utf-8\">Wiring, adapters, and replacement cables for brushless Crazy Cart setups.</p>",
+    "image": "https://cdn.shopify.com/s/files/1/0639/5297/8076/collections/phasewires_0002_3.jpg?v=1767641589",
+    "productHandles": [
+      "vesc-throttle-cable-adapter-for-flipsky-controllers",
+      "hall-sensor-cable-replacement",
+      "brushless-kit-phase-wires"
+    ]
+  },
+  "seat-upgrades": {
+    "id": 322384560284,
+    "handle": "seat-upgrades",
+    "title": "Seat Upgrades",
+    "descriptionHtml": "<p><meta charset=\"utf-8\">Seat upgrades built to improve comfort, support, and adjustability.</p>",
+    "image": "https://cdn.shopify.com/s/files/1/0639/5297/8076/collections/seat.jpg?v=1767643974",
+    "productHandles": [
+      "adjustable-cushioned-seat-upgrade"
+    ]
+  },
+  "motors": {
+    "id": 322384625820,
+    "handle": "motors",
+    "title": "Brushless Motors",
+    "descriptionHtml": "<p><meta charset=\"utf-8\">Built for more power, smoother throttle response, and stronger overall performance. </p>",
+    "image": "https://cdn.shopify.com/s/files/1/0639/5297/8076/collections/motor.jpg?v=1767644008",
+    "productHandles": []
+  },
+  "upgraded-casters-parts": {
+    "id": 322384658588,
+    "handle": "upgraded-casters-parts",
+    "title": "Upgraded Casters & Parts",
+    "descriptionHtml": "<p><meta charset=\"utf-8\">Upgraded casters built for smoother drifting, better durability, and a more confident ride. </p>",
+    "image": "https://cdn.shopify.com/s/files/1/0639/5297/8076/collections/screenschot.jpg?v=1767644295",
+    "productHandles": [
+      "casters"
+    ]
+  }
+}

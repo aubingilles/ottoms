@@ -1,0 +1,3974 @@
+{
+  "stock-200x50-tire": {
+    "id": 8188458631324,
+    "handle": "stock-200x50-tire",
+    "title": "Stock 200x50 Tire (Single)",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p>This is a replacement tire for the standard size crazy cart stock rim. If you popped a tire or you're running low on tread, pick up one of these to get back up and running. It even includes a brand new tube!</p>\n<!---->",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/StockTire.jpg?v=1720754663",
+        "alt": "Stock 200x50 Tire (Single)",
+        "width": 2000,
+        "height": 2000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Stock_tire_2.jpg?v=1720754672",
+        "alt": "Stock 200x50 Tire (Single)",
+        "width": 2000,
+        "height": 2000
+      }
+    ],
+    "variants": [
+      {
+        "id": 44200217903260,
+        "title": "Default Title",
+        "price": "9.99",
+        "compareAtPrice": "12.00",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": "T1"
+      }
+    ]
+  },
+  "tottoms-themini86-tee": {
+    "id": 8285689381020,
+    "handle": "tottoms-themini86-tee",
+    "title": "The Ghost of Akina Tee",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "",
+    "descriptionHtml": "<p>Due to past demand we are bringing back one of our favorite designs, the Ghost of Akina tee!</p>\n<p><meta charset=\"utf-8\"><span>Made to order in the USA</span></p>\n<p><meta charset=\"utf-8\"><strong>Tee</strong> designed from our sweepstakes cart of November. Everyone loved this shirt so we are bringing it back!</p>",
+    "options": [
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/v2designback.jpg?v=1730218437",
+        "alt": "The Ghost of Akina Tee",
+        "width": 2000,
+        "height": 2000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/v2design.jpg?v=1730218437",
+        "alt": "The Ghost of Akina Tee",
+        "width": 2000,
+        "height": 2000
+      }
+    ],
+    "variants": [
+      {
+        "id": 44550910279836,
+        "title": "S",
+        "price": "39.00",
+        "compareAtPrice": "49.00",
+        "option1": "S",
+        "option2": null,
+        "option3": null,
+        "sku": "TGOATS"
+      },
+      {
+        "id": 44550910312604,
+        "title": "M",
+        "price": "39.00",
+        "compareAtPrice": "49.00",
+        "option1": "M",
+        "option2": null,
+        "option3": null,
+        "sku": "TGOATM"
+      },
+      {
+        "id": 44550910345372,
+        "title": "L",
+        "price": "39.00",
+        "compareAtPrice": "49.00",
+        "option1": "L",
+        "option2": null,
+        "option3": null,
+        "sku": "TGOATL"
+      },
+      {
+        "id": 44550910378140,
+        "title": "XL",
+        "price": "42.00",
+        "compareAtPrice": "49.00",
+        "option1": "XL",
+        "option2": null,
+        "option3": null,
+        "sku": "TGOATXL"
+      },
+      {
+        "id": 44550910410908,
+        "title": "2XL",
+        "price": "42.00",
+        "compareAtPrice": "49.00",
+        "option1": "2XL",
+        "option2": null,
+        "option3": null,
+        "sku": "TGOAT2XL"
+      }
+    ]
+  },
+  "nissan-gtr-tee": {
+    "id": 8286112776348,
+    "handle": "nissan-gtr-tee",
+    "title": "IS300 Tottoms Tee",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "",
+    "descriptionHtml": "<p><meta charset=\"utf-8\"><span>Made to order in the USA</span></p>",
+    "options": [
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Front_8e23da24-1c32-4e97-96f8-d9b6242e8581.jpg?v=1731286128",
+        "alt": "IS300 Tottoms Tee",
+        "width": 2000,
+        "height": 2000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/front2.jpg?v=1731286129",
+        "alt": "IS300 Tottoms Tee",
+        "width": 2000,
+        "height": 2000
+      }
+    ],
+    "variants": [
+      {
+        "id": 44550911099036,
+        "title": "S",
+        "price": "39.00",
+        "compareAtPrice": "45.00",
+        "option1": "S",
+        "option2": null,
+        "option3": null,
+        "sku": "NGTS"
+      },
+      {
+        "id": 44550911131804,
+        "title": "M",
+        "price": "39.00",
+        "compareAtPrice": "45.00",
+        "option1": "M",
+        "option2": null,
+        "option3": null,
+        "sku": "NGTM"
+      },
+      {
+        "id": 44550911164572,
+        "title": "L",
+        "price": "39.00",
+        "compareAtPrice": "45.00",
+        "option1": "L",
+        "option2": null,
+        "option3": null,
+        "sku": "NGTL"
+      },
+      {
+        "id": 44550911197340,
+        "title": "XL",
+        "price": "42.00",
+        "compareAtPrice": "45.00",
+        "option1": "XL",
+        "option2": null,
+        "option3": null,
+        "sku": "NGTXL"
+      },
+      {
+        "id": 44550911230108,
+        "title": "2XL",
+        "price": "42.00",
+        "compareAtPrice": "45.00",
+        "option1": "2XL",
+        "option2": null,
+        "option3": null,
+        "sku": "NGT2XL"
+      }
+    ]
+  },
+  "dont-drop-the-bar-tee": {
+    "id": 8290430746780,
+    "handle": "dont-drop-the-bar-tee",
+    "title": "Don't Drop the Bar Tee - Cream",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "",
+    "descriptionHtml": "<p><meta charset=\"utf-8\"><span>Made to order in the USA</span></p>",
+    "options": [
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Front_336b5e4b-9020-4a27-b37c-929cbece233a.jpg?v=1730043038",
+        "alt": "Don't Drop the Bar Tee - Cream",
+        "width": 2000,
+        "height": 2000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Frontv2_ac16b2a9-890d-4c2a-afa4-52509c983c58.jpg?v=1730043038",
+        "alt": "Don't Drop the Bar Tee - Cream",
+        "width": 2000,
+        "height": 2000
+      }
+    ],
+    "variants": [
+      {
+        "id": 44550908870812,
+        "title": "S",
+        "price": "39.00",
+        "compareAtPrice": "49.00",
+        "option1": "S",
+        "option2": null,
+        "option3": null,
+        "sku": "DDTBTCS"
+      },
+      {
+        "id": 44550908903580,
+        "title": "M",
+        "price": "39.00",
+        "compareAtPrice": "49.00",
+        "option1": "M",
+        "option2": null,
+        "option3": null,
+        "sku": "DDTBTCM"
+      },
+      {
+        "id": 44550908936348,
+        "title": "L",
+        "price": "39.00",
+        "compareAtPrice": "49.00",
+        "option1": "L",
+        "option2": null,
+        "option3": null,
+        "sku": "DDTBTCL"
+      },
+      {
+        "id": 44550908969116,
+        "title": "XL",
+        "price": "42.00",
+        "compareAtPrice": "49.00",
+        "option1": "XL",
+        "option2": null,
+        "option3": null,
+        "sku": "DDTBTCXL"
+      },
+      {
+        "id": 44550909001884,
+        "title": "2XL",
+        "price": "42.00",
+        "compareAtPrice": "49.00",
+        "option1": "2XL",
+        "option2": null,
+        "option3": null,
+        "sku": "DDTBTC2XL"
+      }
+    ]
+  },
+  "dont-drop-the-bar-tee-black": {
+    "id": 8290437791900,
+    "handle": "dont-drop-the-bar-tee-black",
+    "title": "Don't Drop the Bar Tee - Black",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "",
+    "descriptionHtml": "<p>Made to order in the USA</p>",
+    "options": [
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Back_6427ee8f-5ea8-4ede-ab7f-b19d5b83df9e.jpg?v=1730048834",
+        "alt": "Don't Drop the Bar Tee - Black",
+        "width": 2000,
+        "height": 2000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Front_24c32583-814f-4b0e-b026-e9d3204805b0.jpg?v=1730048834",
+        "alt": "Don't Drop the Bar Tee - Black",
+        "width": 2000,
+        "height": 2000
+      }
+    ],
+    "variants": [
+      {
+        "id": 44550908018844,
+        "title": "S",
+        "price": "39.00",
+        "compareAtPrice": "49.00",
+        "option1": "S",
+        "option2": null,
+        "option3": null,
+        "sku": "DDTBTBS"
+      },
+      {
+        "id": 44550908051612,
+        "title": "M",
+        "price": "39.00",
+        "compareAtPrice": "49.00",
+        "option1": "M",
+        "option2": null,
+        "option3": null,
+        "sku": "DDTBTBM"
+      },
+      {
+        "id": 44550908084380,
+        "title": "L",
+        "price": "39.00",
+        "compareAtPrice": "49.00",
+        "option1": "L",
+        "option2": null,
+        "option3": null,
+        "sku": "DDTBTBL"
+      },
+      {
+        "id": 44550908117148,
+        "title": "XL",
+        "price": "42.00",
+        "compareAtPrice": "49.00",
+        "option1": "XL",
+        "option2": null,
+        "option3": null,
+        "sku": "DDTBTBXL"
+      },
+      {
+        "id": 44550908149916,
+        "title": "2XL",
+        "price": "42.00",
+        "compareAtPrice": "49.00",
+        "option1": "2XL",
+        "option2": null,
+        "option3": null,
+        "sku": "DDTBTB2XL"
+      }
+    ]
+  },
+  "tottoms-slotted-foot-pedal-standard-xl-compatible": {
+    "id": 8332409077916,
+    "handle": "tottoms-slotted-foot-pedal-standard-xl-compatible",
+    "title": "SLOTTED Foot Pedal - Standard & XL Compatible",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Crazy Cart XL, Standard Crazy Cart",
+    "descriptionHtml": "<p><meta charset=\"utf-8\">The <strong>Tottoms SLOTTED Foot Pedal </strong>is a great addition to any crazy cart, not only in looks, but also in functionality. By increasing the length of the pivot point, it gives you more angular resolution so you can fine tune your throttle control and hit drifts easier!<strong></strong></p>\n<p> </p>",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Pedals_0008_ChatGPT_Image_Jan_5_2026_09_35_24_AM.jpg?v=1767642554",
+        "alt": "SLOTTED Foot Pedal - Standard & XL Compatible",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Pedals_0000_9.jpg?v=1767642784",
+        "alt": "SLOTTED Foot Pedal - Standard & XL Compatible",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Pedals_0003_6.jpg?v=1767642784",
+        "alt": "SLOTTED Foot Pedal - Standard & XL Compatible",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Pedals_0002_7.jpg?v=1767642784",
+        "alt": "SLOTTED Foot Pedal - Standard & XL Compatible",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Pedals_0007_2.jpg?v=1767642784",
+        "alt": "SLOTTED Foot Pedal - Standard & XL Compatible",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Pedals_0001_8.jpg?v=1767642553",
+        "alt": "SLOTTED Foot Pedal - Standard & XL Compatible",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "variants": [
+      {
+        "id": 44703846563996,
+        "title": "Default Title",
+        "price": "29.99",
+        "compareAtPrice": "29.99",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "tottoms-foot-pedal-standard-xl-compatible": {
+    "id": 8332425724060,
+    "handle": "tottoms-foot-pedal-standard-xl-compatible",
+    "title": "DELTA Foot Pedal - Standard & XL Compatible",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Crazy Cart XL, Standard Crazy Cart",
+    "descriptionHtml": "<p><meta charset=\"utf-8\">The <strong>Tottoms DELTA Foot Pedal </strong>is a great addition to any crazy cart, not only in looks, but also in functionality. By increasing the length of the pivot point, it gives you more angular resolution so you can fine tune your throttle control and hit drifts easier!<strong></strong></p>",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Pedals_0009_1.jpg?v=1767642728",
+        "alt": "DELTA Foot Pedal - Standard & XL Compatible",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Pedals_0005_4.jpg?v=1767642728",
+        "alt": "DELTA Foot Pedal - Standard & XL Compatible",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Pedals_0007_2.jpg?v=1767642784",
+        "alt": "DELTA Foot Pedal - Standard & XL Compatible",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Pedals_0006_3.jpg?v=1767642552",
+        "alt": "DELTA Foot Pedal - Standard & XL Compatible",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "variants": [
+      {
+        "id": 44703874449564,
+        "title": "Default Title",
+        "price": "29.99",
+        "compareAtPrice": "29.99",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "casters": {
+    "id": 8334111309980,
+    "handle": "casters",
+    "title": "Tottoms V2 Casters Kit - COMING SOON",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Crazy Cart XL, Standard Crazy Cart",
+    "descriptionHtml": "<p>V2 Casters will utilize our new bearing design and new custom spacers to fit majority of the popular wheels people use on the market. More info coming soon!</p>",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/screenschot.jpg?v=1766892218",
+        "alt": "Tottoms V2 Casters Kit - COMING SOON",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/blackkartcasters.jpg?v=1766892693",
+        "alt": "Tottoms V2 Casters Kit - COMING SOON",
+        "width": 2832,
+        "height": 2832
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/fantacasters.jpg?v=1766892693",
+        "alt": "Tottoms V2 Casters Kit - COMING SOON",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/orangekartcasters.jpg?v=1766892693",
+        "alt": "Tottoms V2 Casters Kit - COMING SOON",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/redforkkart.jpg?v=1766892693",
+        "alt": "Tottoms V2 Casters Kit - COMING SOON",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "variants": [
+      {
+        "id": 46600050475164,
+        "title": "Default Title",
+        "price": "229.00",
+        "compareAtPrice": "0.00",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "stock-250w-crazy-cart-motor-standard-size": {
+    "id": 8334976712860,
+    "handle": "stock-250w-crazy-cart-motor-standard-size",
+    "title": "Stock 250w Crazy Cart Motor - Standard Size",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p>Stock Crazy Cart motor replacement. Brand new.</p>",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/StockMotor2.jpg?v=1767567995",
+        "alt": "Stock 250w Crazy Cart Motor - Standard Size",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/StockMotor1.jpg?v=1767567995",
+        "alt": "Stock 250w Crazy Cart Motor - Standard Size",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "variants": [
+      {
+        "id": 44711655964828,
+        "title": "Default Title",
+        "price": "20.00",
+        "compareAtPrice": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": ""
+      }
+    ]
+  },
+  "stock-24v-battery-standard-size": {
+    "id": 8334976843932,
+    "handle": "stock-24v-battery-standard-size",
+    "title": "Stock 24v Battery - Standard Size",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p>Stock battery pack from crazy cart.</p>",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/battery.jpg?v=1767573086",
+        "alt": "Stock 24v Battery - Standard Size",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "variants": [
+      {
+        "id": 44711656161436,
+        "title": "Default Title",
+        "price": "10.00",
+        "compareAtPrice": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": ""
+      }
+    ]
+  },
+  "budgetbrushlesskit": {
+    "id": 8409858310300,
+    "handle": "budgetbrushlesskit",
+    "title": "4000w Belt Drive Street Kit",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p><meta charset=\"utf-8\"><b>For Standard Crazy Cart (V2+)</b></p>",
+    "options": [
+      {
+        "name": "Pre-Assembled Stock Fork?",
+        "values": [
+          "No Ill Use My Own Fork",
+          "Yes Include Pre-Assembled Fork +$79"
+        ]
+      },
+      {
+        "name": "Battery Option",
+        "values": [
+          "No Battery 36v Tune",
+          "No Battery 48v Tune",
+          "No Battery 60v Tune",
+          "Include Amorge 36v 12Ah Battery (Metal Case) +$300",
+          "Include Amorge 48v 16Ah Battery (Metal Case) +$500"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Belt_Drive_Street_Kit_v2.jpg?v=1766753184",
+        "alt": "4000w Belt Drive Street Kit",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/belt_2.jpg?v=1782744917",
+        "alt": "4000w Belt Drive Street Kit",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Belt_1.jpg?v=1782744917",
+        "alt": "4000w Belt Drive Street Kit",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Screen.jpg?v=1782744917",
+        "alt": "4000w Belt Drive Street Kit",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/pro_kit_0001_5.jpg?v=1782505471",
+        "alt": "4000w Belt Drive Street Kit",
+        "width": 4240,
+        "height": 2384
+      }
+    ],
+    "variants": [
+      {
+        "id": 47124479443100,
+        "title": "No Ill Use My Own Fork / No Battery 36v Tune",
+        "price": "699.00",
+        "compareAtPrice": null,
+        "option1": "No Ill Use My Own Fork",
+        "option2": "No Battery 36v Tune",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47124479475868,
+        "title": "No Ill Use My Own Fork / No Battery 48v Tune",
+        "price": "699.00",
+        "compareAtPrice": null,
+        "option1": "No Ill Use My Own Fork",
+        "option2": "No Battery 48v Tune",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47124479508636,
+        "title": "No Ill Use My Own Fork / No Battery 60v Tune",
+        "price": "699.00",
+        "compareAtPrice": null,
+        "option1": "No Ill Use My Own Fork",
+        "option2": "No Battery 60v Tune",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47124479541404,
+        "title": "No Ill Use My Own Fork / Include Amorge 36v 12Ah Battery (Metal Case) +$300",
+        "price": "999.00",
+        "compareAtPrice": null,
+        "option1": "No Ill Use My Own Fork",
+        "option2": "Include Amorge 36v 12Ah Battery (Metal Case) +$300",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47124479574172,
+        "title": "No Ill Use My Own Fork / Include Amorge 48v 16Ah Battery (Metal Case) +$500",
+        "price": "1199.00",
+        "compareAtPrice": null,
+        "option1": "No Ill Use My Own Fork",
+        "option2": "Include Amorge 48v 16Ah Battery (Metal Case) +$500",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47124479606940,
+        "title": "Yes Include Pre-Assembled Fork +$79 / No Battery 36v Tune",
+        "price": "778.00",
+        "compareAtPrice": null,
+        "option1": "Yes Include Pre-Assembled Fork +$79",
+        "option2": "No Battery 36v Tune",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47124479639708,
+        "title": "Yes Include Pre-Assembled Fork +$79 / No Battery 48v Tune",
+        "price": "778.00",
+        "compareAtPrice": null,
+        "option1": "Yes Include Pre-Assembled Fork +$79",
+        "option2": "No Battery 48v Tune",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47124479672476,
+        "title": "Yes Include Pre-Assembled Fork +$79 / No Battery 60v Tune",
+        "price": "778.00",
+        "compareAtPrice": null,
+        "option1": "Yes Include Pre-Assembled Fork +$79",
+        "option2": "No Battery 60v Tune",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47124479705244,
+        "title": "Yes Include Pre-Assembled Fork +$79 / Include Amorge 36v 12Ah Battery (Metal Case) +$300",
+        "price": "1078.00",
+        "compareAtPrice": null,
+        "option1": "Yes Include Pre-Assembled Fork +$79",
+        "option2": "Include Amorge 36v 12Ah Battery (Metal Case) +$300",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47124479738012,
+        "title": "Yes Include Pre-Assembled Fork +$79 / Include Amorge 48v 16Ah Battery (Metal Case) +$500",
+        "price": "1278.00",
+        "compareAtPrice": null,
+        "option1": "Yes Include Pre-Assembled Fork +$79",
+        "option2": "Include Amorge 48v 16Ah Battery (Metal Case) +$500",
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "cst-200x50-tire-3x-bundle": {
+    "id": 8463717761180,
+    "handle": "cst-200x50-tire-3x-bundle",
+    "title": "3x CST 200x50 Tires",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p class=\"isSelectedEnd\"><b>3x BUNDLE</b></p>\n<p class=\"isSelectedEnd\"><span>Our personal favorite tire for Standard Size Crazy Cart rims.</span></p>\n<p><span>This tire delivers excellent grip, strong durability, and a relatively long service life, making it a great choice for riders who want better traction and reliable performance.</span></p>\n<!---->",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/CST3.jpg?v=1767572762",
+        "alt": "3x CST 200x50 Tires",
+        "width": 1040,
+        "height": 1040
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/CST1.jpg?v=1767572762",
+        "alt": "3x CST 200x50 Tires",
+        "width": 1040,
+        "height": 1040
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/CST2.jpg?v=1767572762",
+        "alt": "3x CST 200x50 Tires",
+        "width": 1040,
+        "height": 1040
+      }
+    ],
+    "variants": [
+      {
+        "id": 45889906049180,
+        "title": "Default Title",
+        "price": "39.00",
+        "compareAtPrice": "0.00",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": "T2"
+      }
+    ]
+  },
+  "tottoms-sealed-headset": {
+    "id": 8483723280540,
+    "handle": "tottoms-sealed-headset",
+    "title": "Tottoms Sealed Headset",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p><meta charset=\"utf-8\"><strong data-start=\"93\" data-end=\"118\">1-1/8\" Sealed Headset</strong><br data-start=\"118\" data-end=\"121\">Upgrade your steering with this high-quality sealed bearing headset.<br data-start=\"189\" data-end=\"192\">• Compatible with both Standard and XL Crazy Carts<br data-start=\"242\" data-end=\"245\">• Smooth, durable performance with sealed cartridge bearings<br data-start=\"305\" data-end=\"308\">• 1-1/8\" threaded design</p>",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Sealedheadset_0003_5.jpg?v=1767581970",
+        "alt": "Tottoms Sealed Headset",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Sealedheadset_0001_2.jpg?v=1767581970",
+        "alt": "Tottoms Sealed Headset",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Sealed_headset_0003_6_d13ffc50-7b81-46f7-bade-242a7b636e50.jpg?v=1767581970",
+        "alt": "Tottoms Sealed Headset",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Sealedheadset_0000_1.jpg?v=1767581970",
+        "alt": "Tottoms Sealed Headset",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Sealedheadset_0002_4.jpg?v=1767581456",
+        "alt": "Tottoms Sealed Headset",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "variants": [
+      {
+        "id": 45177080676508,
+        "title": "Default Title",
+        "price": "29.99",
+        "compareAtPrice": "45.00",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "beltconversionkit": {
+    "id": 8557366116508,
+    "handle": "beltconversionkit",
+    "title": "Stock Fork 7070 Motor Belt Drive Conversion Kit",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p><strong>For Standard Crazy Cart (V2+)</strong></p>\n<p>Kit does not come with motor or fork.</p>",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/conv_0006_conversion_kit_3_v2.jpg?v=1766979194",
+        "alt": "Stock Fork 7070 Motor Belt Drive Conversion Kit",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/conv_0000_conversionkit9.jpg?v=1766979194",
+        "alt": "Stock Fork 7070 Motor Belt Drive Conversion Kit",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/conv_0002_conversionkit8.jpg?v=1766979194",
+        "alt": "Stock Fork 7070 Motor Belt Drive Conversion Kit",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/conv_0004_conversionkit1.jpg?v=1766979194",
+        "alt": "Stock Fork 7070 Motor Belt Drive Conversion Kit",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/MotorMount.jpg?v=1774641154",
+        "alt": "Stock Fork 7070 Motor Belt Drive Conversion Kit",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/conv_0007_conversionkit4.jpg?v=1766979194",
+        "alt": "Stock Fork 7070 Motor Belt Drive Conversion Kit",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/conv_0008_conversionkit5.jpg?v=1766979194",
+        "alt": "Stock Fork 7070 Motor Belt Drive Conversion Kit",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/conv_0001_conversion_kit_10.jpg?v=1766979194",
+        "alt": "Stock Fork 7070 Motor Belt Drive Conversion Kit",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/ChatGPTImageDec25_2025_06_25_31PM.png?v=1766979194",
+        "alt": "Stock Fork 7070 Motor Belt Drive Conversion Kit",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/conversionkit10.jpg?v=1766979194",
+        "alt": "Stock Fork 7070 Motor Belt Drive Conversion Kit",
+        "width": 1024,
+        "height": 1024
+      }
+    ],
+    "variants": [
+      {
+        "id": 46006291955868,
+        "title": "Default Title",
+        "price": "189.00",
+        "compareAtPrice": "179.00",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "tottoms-pro-fork-w-hydraulic-brake-upgrade": {
+    "id": 8743730741404,
+    "handle": "tottoms-pro-fork-w-hydraulic-brake-upgrade",
+    "title": "Tottoms PRO Fork System",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p><strong>FOR STANDARD SIZE CRAZY CARTS (NOT XL's)</strong></p>\n<p><meta charset=\"utf-8\">The PRO Fork System was built for more powerful motors offering a significant upgrade in rigidity and durability. It’s now running on hundreds of karts around the world, and we’re proud to say it’s become one of the core upgrades in the Tottoms ecosystem.</p>\n<p><strong>This kit is specifically for 7070 style motors but will be compatible with future motors.</strong></p>",
+    "options": [
+      {
+        "name": "Color Option",
+        "values": [
+          "Gloss Black",
+          "Gloss White",
+          "Matte Black",
+          "Custom Color"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/PRO_Kit_0006_Background.jpg?v=1769545525",
+        "alt": "Tottoms PRO Fork System",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/1st_photo.jpg?v=1783018353",
+        "alt": "Tottoms PRO Fork System",
+        "width": 1448,
+        "height": 1086
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/2nd_photo.jpg?v=1783018353",
+        "alt": "Tottoms PRO Fork System",
+        "width": 1448,
+        "height": 1086
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Signature_PRO_Kart_8f56fe48-edf7-45b8-8d0d-9aba926903d0.jpg?v=1775944368",
+        "alt": "Tottoms PRO Fork System",
+        "width": 3629,
+        "height": 2042
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC06981-2.jpg?v=1782514493",
+        "alt": "Tottoms PRO Fork System",
+        "width": 4094,
+        "height": 2302
+      }
+    ],
+    "variants": [
+      {
+        "id": 47149251264668,
+        "title": "Gloss Black",
+        "price": "599.00",
+        "compareAtPrice": null,
+        "option1": "Gloss Black",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47149251297436,
+        "title": "Gloss White",
+        "price": "599.00",
+        "compareAtPrice": null,
+        "option1": "Gloss White",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47149251330204,
+        "title": "Matte Black",
+        "price": "599.00",
+        "compareAtPrice": null,
+        "option1": "Matte Black",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47149251362972,
+        "title": "Custom Color",
+        "price": "599.00",
+        "compareAtPrice": null,
+        "option1": "Custom Color",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "tottoms-led-underglow-kit": {
+    "id": 8743749943452,
+    "handle": "tottoms-led-underglow-kit",
+    "title": "Tottoms LED Underglow Kit",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "",
+    "options": [
+      {
+        "name": "Color",
+        "values": [
+          "Blue",
+          "Red",
+          "Gloss White",
+          "Pink",
+          "Green",
+          "Yellow",
+          "Purple"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/LEDUnderglowmainpic.jpg?v=1766496358",
+        "alt": "Tottoms LED Underglow Kit",
+        "width": 2832,
+        "height": 2832
+      }
+    ],
+    "variants": [
+      {
+        "id": 45851492090012,
+        "title": "Blue",
+        "price": "89.00",
+        "compareAtPrice": null,
+        "option1": "Blue",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 45851492122780,
+        "title": "Red",
+        "price": "89.00",
+        "compareAtPrice": null,
+        "option1": "Red",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 45851492155548,
+        "title": "Gloss White",
+        "price": "89.00",
+        "compareAtPrice": null,
+        "option1": "Gloss White",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 45851492188316,
+        "title": "Pink",
+        "price": "89.00",
+        "compareAtPrice": null,
+        "option1": "Pink",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 45851492221084,
+        "title": "Green",
+        "price": "89.00",
+        "compareAtPrice": null,
+        "option1": "Green",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 45851492253852,
+        "title": "Yellow",
+        "price": "89.00",
+        "compareAtPrice": null,
+        "option1": "Yellow",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 45851492286620,
+        "title": "Purple",
+        "price": "89.00",
+        "compareAtPrice": null,
+        "option1": "Purple",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "adjustable-cushioned-seat-upgrade": {
+    "id": 8747488903324,
+    "handle": "adjustable-cushioned-seat-upgrade",
+    "title": "Adjustable Cushioned Seat Upgrade",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p class=\"isSelectedEnd\"><strong>The Adjustable Cushioned Seat Upgrade is the most comfortable upgrade you can make to a Standard Size Crazy Cart.</strong></p>\n<p class=\"isSelectedEnd\"><span>Designed as a simple plug and play solution, this upgrade adds extra comfort while turning your seat into an adjustable setup for riders of different heights. Whether you are cruising, drifting, or riding for longer sessions, the added cushion and adjustability make the cart feel more comfortable and easier to dial in.</span></p>\n<p><span>Install is simple with our step by step guide, giving your setup a cleaner, more comfortable ride without overcomplicating the process.</span></p>",
+    "options": [
+      {
+        "name": "Include Seat",
+        "values": [
+          "Include Adjustable Seat +$90",
+          "No seat just the adapter plate"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Untitled-4_21389242-3592-4032-86e8-803fff15961d.jpg?v=1769888575",
+        "alt": "Adjustable Cushioned Seat Upgrade",
+        "width": 2000,
+        "height": 2000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/GrayKart_0006_DSC07729.jpg?v=1769892327",
+        "alt": "Adjustable Cushioned Seat Upgrade",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/GrayKart_0005_DSC07734.jpg?v=1769892327",
+        "alt": "Adjustable Cushioned Seat Upgrade",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Frosted_Ice_King_0008_Remove_tool_edits_1.jpg?v=1769892349",
+        "alt": "Adjustable Cushioned Seat Upgrade",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Frosted_Ice_King_0006_Remove_tool_edits_2.jpg?v=1769892349",
+        "alt": "Adjustable Cushioned Seat Upgrade",
+        "width": 4240,
+        "height": 2384
+      }
+    ],
+    "variants": [
+      {
+        "id": 46028088606876,
+        "title": "Include Adjustable Seat +$90",
+        "price": "189.00",
+        "compareAtPrice": null,
+        "option1": "Include Adjustable Seat +$90",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 46028088574108,
+        "title": "No seat just the adapter plate",
+        "price": "99.00",
+        "compareAtPrice": null,
+        "option1": "No seat just the adapter plate",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "tottoms-7070-motor-mount-for-oem-stock-fork": {
+    "id": 8756407861404,
+    "handle": "tottoms-7070-motor-mount-for-oem-stock-fork",
+    "title": "Adjustable 7070 Motor Mount for OEM Stock Fork",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Crazy Cart XL, Standard Crazy Cart",
+    "descriptionHtml": "<p data-start=\"46\" data-end=\"124\"><strong data-start=\"46\" data-end=\"124\">Meet the easiest 7070 motor mount tension adjustment system on the market.</strong></p>\n<p data-start=\"126\" data-end=\"257\">Simply loosen both lock nuts, rotate the motor up or down to dial in your chain or belt tension, then tighten everything back down.</p>\n<p data-start=\"259\" data-end=\"396\">Built from heavy-duty 1/4 inch steel, this mount uses our single-pin adjustment system to make tensioning fast, precise, and hassle-free.</p>\n<p data-start=\"398\" data-end=\"590\" data-is-last-node=\"\" data-is-only-node=\"\">The single pivot-point design removes the need for the stock chain tensioner when used with the stock fork, creating a more direct torque feel and a cleaner, more connected driving experience.</p>",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/conv_0004_conversionkit1.jpg?v=1766979194",
+        "alt": "Adjustable 7070 Motor Mount for OEM Stock Fork",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/ForkRedline.jpg?v=1766757807",
+        "alt": "Adjustable 7070 Motor Mount for OEM Stock Fork",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/redline3.jpg?v=1766708854",
+        "alt": "Adjustable 7070 Motor Mount for OEM Stock Fork",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/standingup2_347a6cba-eb4d-470f-bc13-0e89367b3716.jpg?v=1774641154",
+        "alt": "Adjustable 7070 Motor Mount for OEM Stock Fork",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/MotorMount.jpg?v=1774641154",
+        "alt": "Adjustable 7070 Motor Mount for OEM Stock Fork",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/conversionkit10.jpg?v=1766979194",
+        "alt": "Adjustable 7070 Motor Mount for OEM Stock Fork",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/conv_0003_conversionkit6.jpg?v=1766927688",
+        "alt": "Adjustable 7070 Motor Mount for OEM Stock Fork",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/conv_0000_conversionkit9.jpg?v=1766979194",
+        "alt": "Adjustable 7070 Motor Mount for OEM Stock Fork",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/conv_0007_conversionkit4.jpg?v=1766979194",
+        "alt": "Adjustable 7070 Motor Mount for OEM Stock Fork",
+        "width": 1024,
+        "height": 1024
+      }
+    ],
+    "variants": [
+      {
+        "id": 45873576673436,
+        "title": "Default Title",
+        "price": "89.00",
+        "compareAtPrice": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "tottoms-belt-drive-pro-kit": {
+    "id": 8756487585948,
+    "handle": "tottoms-belt-drive-pro-kit",
+    "title": "4000w Belt Drive PRO Kit",
+    "vendor": "Tottoms",
+    "productType": "cpb_product",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p class=\"isSelectedEnd\"><meta charset=\"utf-8\"><strong>For Standard Crazy Cart V2+ </strong></p>\n<p class=\"isSelectedEnd\">Included standard with every PRO Kit:</p>\n<p class=\"isSelectedEnd\">Hydraulic brakes, digital display with ride modes, belt drive system, and the Tottoms sealed headset are included in the kit price.</p>\n<p class=\"isSelectedEnd\">See the full <em>\"What’s in the Box\"</em> section below.</p>",
+    "options": [
+      {
+        "name": "Battery Option",
+        "values": [
+          "No Battery 36v Tune",
+          "No Battery 48v Tune",
+          "No Battery 60v Tune",
+          "36v 12ah Amorge Battery (Metal Case) +$300",
+          "48v 16ah Amorge Battery (Metal Case) +$400",
+          "60v 16ah Amorge Battery (Metal Case) +$500"
+        ]
+      },
+      {
+        "name": "Fork Color",
+        "values": [
+          "Gloss Black",
+          "Matte Black",
+          "Gloss White",
+          "Custom Color"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/PRO_Kit.jpg?v=1767102912",
+        "alt": "4000w Belt Drive PRO Kit",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC03356-2.jpg?v=1782505752",
+        "alt": "4000w Belt Drive PRO Kit",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/pro_kit_0002_4.jpg?v=1782505471",
+        "alt": "4000w Belt Drive PRO Kit",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/pro_kit_0004_2.jpg?v=1782505470",
+        "alt": "4000w Belt Drive PRO Kit",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/pro_kit_0000_6.jpg?v=1782505471",
+        "alt": "4000w Belt Drive PRO Kit",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/pro_kit_0001_5.jpg?v=1782505471",
+        "alt": "4000w Belt Drive PRO Kit",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC03637-2.jpg?v=1768668257",
+        "alt": "4000w Belt Drive PRO Kit",
+        "width": 4240,
+        "height": 2384
+      }
+    ],
+    "variants": [
+      {
+        "id": 47108620910748,
+        "title": "No Battery 36v Tune / Gloss Black",
+        "price": "1299.00",
+        "compareAtPrice": "1099.00",
+        "option1": "No Battery 36v Tune",
+        "option2": "Gloss Black",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47108620943516,
+        "title": "No Battery 36v Tune / Matte Black",
+        "price": "1299.00",
+        "compareAtPrice": "1099.00",
+        "option1": "No Battery 36v Tune",
+        "option2": "Matte Black",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47108620976284,
+        "title": "No Battery 36v Tune / Gloss White",
+        "price": "1299.00",
+        "compareAtPrice": "1099.00",
+        "option1": "No Battery 36v Tune",
+        "option2": "Gloss White",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47114438443164,
+        "title": "No Battery 36v Tune / Custom Color",
+        "price": "1399.00",
+        "compareAtPrice": "1099.00",
+        "option1": "No Battery 36v Tune",
+        "option2": "Custom Color",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47109190189212,
+        "title": "No Battery 48v Tune / Gloss Black",
+        "price": "1299.00",
+        "compareAtPrice": "1099.00",
+        "option1": "No Battery 48v Tune",
+        "option2": "Gloss Black",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47109190320284,
+        "title": "No Battery 48v Tune / Matte Black",
+        "price": "1299.00",
+        "compareAtPrice": "1099.00",
+        "option1": "No Battery 48v Tune",
+        "option2": "Matte Black",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47109190451356,
+        "title": "No Battery 48v Tune / Gloss White",
+        "price": "1299.00",
+        "compareAtPrice": "1099.00",
+        "option1": "No Battery 48v Tune",
+        "option2": "Gloss White",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47114438475932,
+        "title": "No Battery 48v Tune / Custom Color",
+        "price": "1399.00",
+        "compareAtPrice": "1099.00",
+        "option1": "No Battery 48v Tune",
+        "option2": "Custom Color",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47109190221980,
+        "title": "No Battery 60v Tune / Gloss Black",
+        "price": "1299.00",
+        "compareAtPrice": "1099.00",
+        "option1": "No Battery 60v Tune",
+        "option2": "Gloss Black",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47109190353052,
+        "title": "No Battery 60v Tune / Matte Black",
+        "price": "1299.00",
+        "compareAtPrice": "1099.00",
+        "option1": "No Battery 60v Tune",
+        "option2": "Matte Black",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47109190484124,
+        "title": "No Battery 60v Tune / Gloss White",
+        "price": "1299.00",
+        "compareAtPrice": "1099.00",
+        "option1": "No Battery 60v Tune",
+        "option2": "Gloss White",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47114438508700,
+        "title": "No Battery 60v Tune / Custom Color",
+        "price": "1399.00",
+        "compareAtPrice": "1099.00",
+        "option1": "No Battery 60v Tune",
+        "option2": "Custom Color",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47126394863772,
+        "title": "36v 12ah Amorge Battery (Metal Case) +$300 / Gloss Black",
+        "price": "1599.00",
+        "compareAtPrice": "1099.00",
+        "option1": "36v 12ah Amorge Battery (Metal Case) +$300",
+        "option2": "Gloss Black",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47126394896540,
+        "title": "36v 12ah Amorge Battery (Metal Case) +$300 / Matte Black",
+        "price": "1599.00",
+        "compareAtPrice": "1099.00",
+        "option1": "36v 12ah Amorge Battery (Metal Case) +$300",
+        "option2": "Matte Black",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47126394929308,
+        "title": "36v 12ah Amorge Battery (Metal Case) +$300 / Gloss White",
+        "price": "1599.00",
+        "compareAtPrice": "1099.00",
+        "option1": "36v 12ah Amorge Battery (Metal Case) +$300",
+        "option2": "Gloss White",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47126394962076,
+        "title": "36v 12ah Amorge Battery (Metal Case) +$300 / Custom Color",
+        "price": "1699.00",
+        "compareAtPrice": "1099.00",
+        "option1": "36v 12ah Amorge Battery (Metal Case) +$300",
+        "option2": "Custom Color",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47109190254748,
+        "title": "48v 16ah Amorge Battery (Metal Case) +$400 / Gloss Black",
+        "price": "1699.00",
+        "compareAtPrice": "1099.00",
+        "option1": "48v 16ah Amorge Battery (Metal Case) +$400",
+        "option2": "Gloss Black",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47109190385820,
+        "title": "48v 16ah Amorge Battery (Metal Case) +$400 / Matte Black",
+        "price": "1699.00",
+        "compareAtPrice": "1099.00",
+        "option1": "48v 16ah Amorge Battery (Metal Case) +$400",
+        "option2": "Matte Black",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47109190516892,
+        "title": "48v 16ah Amorge Battery (Metal Case) +$400 / Gloss White",
+        "price": "1699.00",
+        "compareAtPrice": "1099.00",
+        "option1": "48v 16ah Amorge Battery (Metal Case) +$400",
+        "option2": "Gloss White",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47114438541468,
+        "title": "48v 16ah Amorge Battery (Metal Case) +$400 / Custom Color",
+        "price": "1799.00",
+        "compareAtPrice": "1099.00",
+        "option1": "48v 16ah Amorge Battery (Metal Case) +$400",
+        "option2": "Custom Color",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47109190287516,
+        "title": "60v 16ah Amorge Battery (Metal Case) +$500 / Gloss Black",
+        "price": "1799.00",
+        "compareAtPrice": "1099.00",
+        "option1": "60v 16ah Amorge Battery (Metal Case) +$500",
+        "option2": "Gloss Black",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47109190418588,
+        "title": "60v 16ah Amorge Battery (Metal Case) +$500 / Matte Black",
+        "price": "1799.00",
+        "compareAtPrice": "1099.00",
+        "option1": "60v 16ah Amorge Battery (Metal Case) +$500",
+        "option2": "Matte Black",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47109190549660,
+        "title": "60v 16ah Amorge Battery (Metal Case) +$500 / Gloss White",
+        "price": "1799.00",
+        "compareAtPrice": "1099.00",
+        "option1": "60v 16ah Amorge Battery (Metal Case) +$500",
+        "option2": "Gloss White",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47114438574236,
+        "title": "60v 16ah Amorge Battery (Metal Case) +$500 / Custom Color",
+        "price": "1899.00",
+        "compareAtPrice": "1099.00",
+        "option1": "60v 16ah Amorge Battery (Metal Case) +$500",
+        "option2": "Custom Color",
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "72t-belt-drive-rim-200x50": {
+    "id": 8760571396252,
+    "handle": "72t-belt-drive-rim-200x50",
+    "title": "72T Belt Drive Rim - 200x50",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p class=\"isSelectedEnd\"><span>Precision-machined 72-tooth belt drive rim for 200×50 tires. Designed for smooth power transfer, reliable belt engagement, and long-lasting performance.</span></p>\n<p><span>NOTE: For <strong>HTD5M</strong> belts only.</span></p>\n<p><strong>Requires custom spacers to work with forks.</strong></p>",
+    "options": [
+      {
+        "name": "Tire Option",
+        "values": [
+          "No Tire",
+          "Include CST Tire +$15",
+          "Include Stock Tire + $10"
+        ]
+      },
+      {
+        "name": "Brake Disc",
+        "values": [
+          "No Brake Disc",
+          "Include Brake Disc & Hub Adapter +$25"
+        ]
+      },
+      {
+        "name": "Include Spacers for Crazy Cart Fork",
+        "values": [
+          "No Do Not Include",
+          "Yes Include Spacers + $5"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/200x50beltdriverim_0001_2.jpg?v=1767565685",
+        "alt": "72T Belt Drive Rim - 200x50",
+        "width": 1040,
+        "height": 1040
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/200x50beltdriverimwithCST.jpg?v=1767565685",
+        "alt": "72T Belt Drive Rim - 200x50",
+        "width": 1040,
+        "height": 1040
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/200x50beltdriverim_0000_1.jpg?v=1767565685",
+        "alt": "72T Belt Drive Rim - 200x50",
+        "width": 1040,
+        "height": 1040
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/200x50beltdriverim_0002_3.jpg?v=1767565471",
+        "alt": "72T Belt Drive Rim - 200x50",
+        "width": 1040,
+        "height": 1040
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/120mmbrakediscreplacement_0002_1.jpg?v=1767571976",
+        "alt": "72T Belt Drive Rim - 200x50",
+        "width": 1040,
+        "height": 1040
+      }
+    ],
+    "variants": [
+      {
+        "id": 45889716289692,
+        "title": "No Tire / No Brake Disc / No Do Not Include",
+        "price": "20.00",
+        "compareAtPrice": null,
+        "option1": "No Tire",
+        "option2": "No Brake Disc",
+        "option3": "No Do Not Include",
+        "sku": null
+      },
+      {
+        "id": 46747900149916,
+        "title": "No Tire / No Brake Disc / Yes Include Spacers + $5",
+        "price": "20.00",
+        "compareAtPrice": null,
+        "option1": "No Tire",
+        "option2": "No Brake Disc",
+        "option3": "Yes Include Spacers + $5",
+        "sku": null
+      },
+      {
+        "id": 45891453386908,
+        "title": "No Tire / Include Brake Disc & Hub Adapter +$25 / No Do Not Include",
+        "price": "45.00",
+        "compareAtPrice": null,
+        "option1": "No Tire",
+        "option2": "Include Brake Disc & Hub Adapter +$25",
+        "option3": "No Do Not Include",
+        "sku": null
+      },
+      {
+        "id": 46747900182684,
+        "title": "No Tire / Include Brake Disc & Hub Adapter +$25 / Yes Include Spacers + $5",
+        "price": "20.00",
+        "compareAtPrice": null,
+        "option1": "No Tire",
+        "option2": "Include Brake Disc & Hub Adapter +$25",
+        "option3": "Yes Include Spacers + $5",
+        "sku": null
+      },
+      {
+        "id": 45889716322460,
+        "title": "Include CST Tire +$15 / No Brake Disc / No Do Not Include",
+        "price": "35.00",
+        "compareAtPrice": null,
+        "option1": "Include CST Tire +$15",
+        "option2": "No Brake Disc",
+        "option3": "No Do Not Include",
+        "sku": null
+      },
+      {
+        "id": 46747900215452,
+        "title": "Include CST Tire +$15 / No Brake Disc / Yes Include Spacers + $5",
+        "price": "20.00",
+        "compareAtPrice": null,
+        "option1": "Include CST Tire +$15",
+        "option2": "No Brake Disc",
+        "option3": "Yes Include Spacers + $5",
+        "sku": null
+      },
+      {
+        "id": 45891453419676,
+        "title": "Include CST Tire +$15 / Include Brake Disc & Hub Adapter +$25 / No Do Not Include",
+        "price": "60.00",
+        "compareAtPrice": null,
+        "option1": "Include CST Tire +$15",
+        "option2": "Include Brake Disc & Hub Adapter +$25",
+        "option3": "No Do Not Include",
+        "sku": null
+      },
+      {
+        "id": 46747900248220,
+        "title": "Include CST Tire +$15 / Include Brake Disc & Hub Adapter +$25 / Yes Include Spacers + $5",
+        "price": "20.00",
+        "compareAtPrice": null,
+        "option1": "Include CST Tire +$15",
+        "option2": "Include Brake Disc & Hub Adapter +$25",
+        "option3": "Yes Include Spacers + $5",
+        "sku": null
+      },
+      {
+        "id": 46747900280988,
+        "title": "Include Stock Tire + $10 / No Brake Disc / No Do Not Include",
+        "price": "20.00",
+        "compareAtPrice": null,
+        "option1": "Include Stock Tire + $10",
+        "option2": "No Brake Disc",
+        "option3": "No Do Not Include",
+        "sku": null
+      },
+      {
+        "id": 46747900313756,
+        "title": "Include Stock Tire + $10 / No Brake Disc / Yes Include Spacers + $5",
+        "price": "20.00",
+        "compareAtPrice": null,
+        "option1": "Include Stock Tire + $10",
+        "option2": "No Brake Disc",
+        "option3": "Yes Include Spacers + $5",
+        "sku": null
+      },
+      {
+        "id": 46747900346524,
+        "title": "Include Stock Tire + $10 / Include Brake Disc & Hub Adapter +$25 / No Do Not Include",
+        "price": "20.00",
+        "compareAtPrice": null,
+        "option1": "Include Stock Tire + $10",
+        "option2": "Include Brake Disc & Hub Adapter +$25",
+        "option3": "No Do Not Include",
+        "sku": null
+      },
+      {
+        "id": 46747900379292,
+        "title": "Include Stock Tire + $10 / Include Brake Disc & Hub Adapter +$25 / Yes Include Spacers + $5",
+        "price": "20.00",
+        "compareAtPrice": null,
+        "option1": "Include Stock Tire + $10",
+        "option2": "Include Brake Disc & Hub Adapter +$25",
+        "option3": "Yes Include Spacers + $5",
+        "sku": null
+      }
+    ]
+  },
+  "550mm-reinforced-belt-replacement": {
+    "id": 8760583389340,
+    "handle": "550mm-reinforced-belt-replacement",
+    "title": "550mm Reinforced Belt Replacement",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p>Please note that the belt length is <strong>550mm</strong> long.</p>\n<p><strong>Note: </strong>Majority of our kits use the 520mm belt.<strong> All of our belts have the size listed on the belt itself. Check your current crazy cart belt size and make sure this is compatible.</strong></p>\n<p> </p>",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/550mmbelt.jpg?v=1767571646",
+        "alt": "550mm Reinforced Belt Replacement",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "variants": [
+      {
+        "id": 45889897136284,
+        "title": "Default Title",
+        "price": "49.00",
+        "compareAtPrice": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "520mm-reinforced-belt-replacement": {
+    "id": 8760583422108,
+    "handle": "520mm-reinforced-belt-replacement",
+    "title": "520mm Reinforced Belt Replacement",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p>Please note that the belt length is <strong>520mm</strong><span> </span>long.</p>\n<p><strong>Note: </strong>Majority of our kits use the 520mm belt.<strong><span> </span>All of our belts have the size listed on the belt itself. Check your current crazy cart belt size and make sure this is compatible.</strong></p>",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/520mmbelt.jpg?v=1767571798",
+        "alt": "520mm Reinforced Belt Replacement",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "variants": [
+      {
+        "id": 45889897496732,
+        "title": "Default Title",
+        "price": "49.00",
+        "compareAtPrice": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "120mm-brake-disc-replacement": {
+    "id": 8760584011932,
+    "handle": "120mm-brake-disc-replacement",
+    "title": "120mm Brake Disc & Adapter",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p>Replacement brake disc &amp; adapter for our belt drive rim system.</p>\n<p>Comes with the flange adapter and 6 mounting bolts.</p>",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/120mmbrakediscreplacement_0002_1.jpg?v=1767571976",
+        "alt": "120mm Brake Disc & Adapter",
+        "width": 1040,
+        "height": 1040
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/120mmbrakediscreplacement_0000_3.jpg?v=1767571976",
+        "alt": "120mm Brake Disc & Adapter",
+        "width": 1040,
+        "height": 1040
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/120mmbrakediscreplacement_0001_2.jpg?v=1767571976",
+        "alt": "120mm Brake Disc & Adapter",
+        "width": 1040,
+        "height": 1040
+      }
+    ],
+    "variants": [
+      {
+        "id": 45889902772380,
+        "title": "Default Title",
+        "price": "16.49",
+        "compareAtPrice": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "tottoms-brake-mount-for-pro-fork": {
+    "id": 8760584831132,
+    "handle": "tottoms-brake-mount-for-pro-fork",
+    "title": "Brake Mount - For PRO Fork",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p>Brake Mount for the Tottoms PRO Fork system.</p>\n<p><strong>NOTE: </strong>This will not work on stock forks, this only works for the Tottoms PRO Fork system.</p>",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/BrakeMount.jpg?v=1767572289",
+        "alt": "Brake Mount - For PRO Fork",
+        "width": 1040,
+        "height": 1040
+      }
+    ],
+    "variants": [
+      {
+        "id": 45889905655964,
+        "title": "Default Title",
+        "price": "29.00",
+        "compareAtPrice": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "hall-sensor-cable-replacement": {
+    "id": 8760584896668,
+    "handle": "hall-sensor-cable-replacement",
+    "title": "7070 Motor Hall Sensor Cable Replacement",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p class=\"isSelectedEnd\"><span>Replacement hall sensor cable for connecting 7070 motors to the 75V100A controller.</span></p>\n<p><span>If you are experiencing motor stuttering or inconsistent response, this is a great part to inspect and replace.</span></p>",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/HallSensorCable.jpg?v=1767572408",
+        "alt": "7070 Motor Hall Sensor Cable Replacement",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "variants": [
+      {
+        "id": 45889905787036,
+        "title": "Default Title",
+        "price": "20.00",
+        "compareAtPrice": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "brushless-kit-phase-wires": {
+    "id": 8760584962204,
+    "handle": "brushless-kit-phase-wires",
+    "title": "Brushless Kit Phase Wires",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p>Replacement phase wires for our brushless crazy cart system. These cables have pre-soldered 4mm female bullets to connect to the 7070 motor and 3.5mm male bullets to connect to our 75v100a controller.</p>",
+    "options": [
+      {
+        "name": "Kart Size",
+        "values": [
+          "Standard Kart",
+          "XL Kart"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/phasewires_0002_3.jpg?v=1767572549",
+        "alt": "Brushless Kit Phase Wires",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/phasewires_0001_2.jpg?v=1767572549",
+        "alt": "Brushless Kit Phase Wires",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/phasewires_0000_1.jpg?v=1767572549",
+        "alt": "Brushless Kit Phase Wires",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "variants": [
+      {
+        "id": 45889905885340,
+        "title": "Standard Kart",
+        "price": "25.00",
+        "compareAtPrice": null,
+        "option1": "Standard Kart",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 45889905918108,
+        "title": "XL Kart",
+        "price": "25.00",
+        "compareAtPrice": null,
+        "option1": "XL Kart",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "vesc-throttle-cable-adapter-for-flipsky-controllers": {
+    "id": 8760585060508,
+    "handle": "vesc-throttle-cable-adapter-for-flipsky-controllers",
+    "title": "VESC Throttle Cable Adapter - For Flipsky 75v100a Controllers",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p class=\"isSelectedEnd\"><span>Replacement throttle cable adapter designed to connect the 75V100A controller throttle plug to the Crazy Cart throttle harness.</span></p>\n<p class=\"isSelectedEnd\"><span>Compatible with XL and Standard Karts.</span></p>\n<p><span><strong>Please note:</strong> This 3 pin throttle adapter works with the stock 6 pin Crazy Cart throttle. When installing, plug the adapter into the top 3 prongs of the stock throttle connector.</span></p>",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/ThrottleCable.jpg?v=1767572619",
+        "alt": "VESC Throttle Cable Adapter - For Flipsky 75v100a Controllers",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "variants": [
+      {
+        "id": 45889906016412,
+        "title": "Default Title",
+        "price": "10.00",
+        "compareAtPrice": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "15t-d-shaft-htd5m-belt-drive-sprocket-10mm-bore": {
+    "id": 8760585158812,
+    "handle": "15t-d-shaft-htd5m-belt-drive-sprocket-10mm-bore",
+    "title": "15t D-Shaft HTD5M Belt Drive Sprocket (10mm Bore)",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p class=\"isSelectedEnd\"><span>Replacement 15 tooth sprocket designed for 7070 motors with a D type motor shaft.</span></p>\n<p><span>This sprocket features a 10mm bore and is made specifically for D shaft applications. It will not work with circular motor shafts, so please verify your motor shaft type before ordering.</span></p>",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/15tBeltDriveSprocket.jpg?v=1767572850",
+        "alt": "15t D-Shaft HTD5M Belt Drive Sprocket (10mm Bore)",
+        "width": 1040,
+        "height": 1040
+      }
+    ],
+    "variants": [
+      {
+        "id": 45889906147484,
+        "title": "Default Title",
+        "price": "19.00",
+        "compareAtPrice": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "vesc-75v100-crazy-cart-mounting-plate": {
+    "id": 8760585257116,
+    "handle": "vesc-75v100-crazy-cart-mounting-plate",
+    "title": "VESC 75v100 Crazy Cart Mounting Plate",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p>For use with 75v100a Flipsky &amp; ChargedUp controllers to mount to the standard size crazy cart.</p>",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/75v100VESCPlate.jpg?v=1767572872",
+        "alt": "VESC 75v100 Crazy Cart Mounting Plate",
+        "width": 1040,
+        "height": 1040
+      }
+    ],
+    "variants": [
+      {
+        "id": 45889907785884,
+        "title": "Default Title",
+        "price": "20.00",
+        "compareAtPrice": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "zoom-hydraulic-crazy-cart-brake": {
+    "id": 8760585388188,
+    "handle": "zoom-hydraulic-crazy-cart-brake",
+    "title": "Zoom Hydraulic Crazy Cart Brake",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p>Replacement hydraulic brake for our PRO fork systems and XL fork systems.</p>",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Brake_0001_2.jpg?v=1767573037",
+        "alt": "Zoom Hydraulic Crazy Cart Brake",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Brake_0002_3.jpg?v=1767573037",
+        "alt": "Zoom Hydraulic Crazy Cart Brake",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Brake_0000_1.jpg?v=1767573037",
+        "alt": "Zoom Hydraulic Crazy Cart Brake",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "variants": [
+      {
+        "id": 45889908015260,
+        "title": "Default Title",
+        "price": "39.00",
+        "compareAtPrice": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "pro-fork-single-pin-adjustment-motor-mount": {
+    "id": 8760700764316,
+    "handle": "pro-fork-single-pin-adjustment-motor-mount",
+    "title": "PRO Fork Single Pin Adjustment Motor Mount - 7070 Motors",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p>This is our single pin motor mount system specifically designed for use in the Tottoms PRO Fork.</p>\n<p><strong>NOT COMPATIBLE WITH STOCK FORKS.</strong></p>",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/proforkmotormount.jpg?v=1767582196",
+        "alt": "PRO Fork Single Pin Adjustment Motor Mount - 7070 Motors",
+        "width": 1024,
+        "height": 1024
+      }
+    ],
+    "variants": [
+      {
+        "id": 45890850685084,
+        "title": "Default Title",
+        "price": "69.00",
+        "compareAtPrice": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "tottoms-ghost-pro-kart": {
+    "id": 8787492733084,
+    "handle": "tottoms-ghost-pro-kart",
+    "title": "\"Ghost\" Belt Drive PRO Kart",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC07319_0005_GenerativeFill3.jpg?v=1775944350",
+        "alt": "\"Ghost\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC07319_0011_Removetooledits.jpg?v=1775944350",
+        "alt": "\"Ghost\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC07319_0006_GenerativeFill4.jpg?v=1775944350",
+        "alt": "\"Ghost\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC07319_0001_DSC07461.jpg?v=1775944350",
+        "alt": "\"Ghost\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC07319_0002_DSC07447.jpg?v=1775944350",
+        "alt": "\"Ghost\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC07319_0000_GenerativeFill.jpg?v=1775944350",
+        "alt": "\"Ghost\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC07319_0003_GenerativeFill2.jpg?v=1775944350",
+        "alt": "\"Ghost\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC07319_0004_DSC07419.jpg?v=1775944350",
+        "alt": "\"Ghost\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC07319_0007_DSC07385.jpg?v=1775944350",
+        "alt": "\"Ghost\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC07319_0008_DSC07364.jpg?v=1775944350",
+        "alt": "\"Ghost\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC07319_0009_DSC07349.jpg?v=1775944350",
+        "alt": "\"Ghost\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      }
+    ],
+    "variants": [
+      {
+        "id": 46010347847836,
+        "title": "Default Title",
+        "price": "3499.00",
+        "compareAtPrice": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "tottoms-signature-48v-pro-kart": {
+    "id": 8787516260508,
+    "handle": "tottoms-signature-48v-pro-kart",
+    "title": "\"Signature\" Belt Drive PRO Kart",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Signature_PRO_Kart_8f56fe48-edf7-45b8-8d0d-9aba926903d0.jpg?v=1775944368",
+        "alt": "\"Signature\" Belt Drive PRO Kart",
+        "width": 3629,
+        "height": 2042
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/RedKart.jpg?v=1775944368",
+        "alt": "\"Signature\" Belt Drive PRO Kart",
+        "width": 3180,
+        "height": 1788
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/BeltDrive-2.jpg?v=1775944368",
+        "alt": "\"Signature\" Belt Drive PRO Kart",
+        "width": 3180,
+        "height": 1788
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Castersforprokartpage.jpg?v=1775944368",
+        "alt": "\"Signature\" Belt Drive PRO Kart",
+        "width": 3180,
+        "height": 1788
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/hydraulicbrake-2.jpg?v=1775944368",
+        "alt": "\"Signature\" Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/TottomsPedalUpgrade.jpg?v=1775944368",
+        "alt": "\"Signature\" Belt Drive PRO Kart",
+        "width": 3180,
+        "height": 1788
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Kart-2_9dfd5e72-bc29-4ff3-a8f6-4cc01c90fbce.jpg?v=1775944368",
+        "alt": "\"Signature\" Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      }
+    ],
+    "variants": [
+      {
+        "id": 46010529710236,
+        "title": "Default Title",
+        "price": "3499.00",
+        "compareAtPrice": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "tottoms-redline-pro-kart": {
+    "id": 8810010771612,
+    "handle": "tottoms-redline-pro-kart",
+    "title": "\"Redline\" Belt Drive PRO Kart",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00637_6cbf5bff-0ae4-4a67-be04-5105c9d36fdb.jpg?v=1780076465",
+        "alt": "\"Redline\" Belt Drive PRO Kart",
+        "width": 3871,
+        "height": 2177
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00618_6ef25efb-c220-4bd5-b807-d67e5c6a703e.jpg?v=1780076465",
+        "alt": "\"Redline\" Belt Drive PRO Kart",
+        "width": 4119,
+        "height": 2316
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00661_0c695a8a-5f82-41bb-ac53-cf4936bba6b1.jpg?v=1780076464",
+        "alt": "\"Redline\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00673_873763d6-ce3d-4973-8007-56f43760871c.jpg?v=1780076464",
+        "alt": "\"Redline\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00721_93bb591a-7a54-463c-8a10-d84062a32003.jpg?v=1780076464",
+        "alt": "\"Redline\" Belt Drive PRO Kart",
+        "width": 4084,
+        "height": 2296
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00727_b69c5b1a-43de-43bc-ab21-ec750a50d7be.jpg?v=1780076464",
+        "alt": "\"Redline\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00731_719edd7c-4887-4d6a-bc62-3f66e7a4ffaa.jpg?v=1780076465",
+        "alt": "\"Redline\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00736_7e9a59e4-889a-45b2-b681-fe32e9e8bf82.jpg?v=1780076465",
+        "alt": "\"Redline\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00764_bfab96df-daf5-409d-ad2a-cedcc8c13b2c.jpg?v=1780076465",
+        "alt": "\"Redline\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00776_4453acb1-fdff-4ebd-b187-2f111b9b92ae.jpg?v=1780076464",
+        "alt": "\"Redline\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      }
+    ],
+    "variants": [
+      {
+        "id": 46195495895196,
+        "title": "Default Title",
+        "price": "2999.00",
+        "compareAtPrice": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "pre-tuned-vesc-75v100a-controller": {
+    "id": 8960918749340,
+    "handle": "pre-tuned-vesc-75v100a-controller",
+    "title": "Pre-Tuned VESC 75v100a Controller",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p>Our tried and true brushless controller system powering our entire standard crazy cart line-up.</p>",
+    "options": [
+      {
+        "name": "Tune Option",
+        "values": [
+          "36v Tune",
+          "48v Tune",
+          "60v Tune"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/vesc_9afeb258-9944-4283-99a6-5b953aa381cc.jpg?v=1774641179",
+        "alt": "Pre-Tuned VESC 75v100a Controller",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/75v100VESCPlate.jpg?v=1767572872",
+        "alt": "Pre-Tuned VESC 75v100a Controller",
+        "width": 1040,
+        "height": 1040
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/PRO_Kit_on_Kart_0005_3.jpg?v=1769451977",
+        "alt": "Pre-Tuned VESC 75v100a Controller",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC09233_0010_DSC09730.jpg?v=1764023753",
+        "alt": "Pre-Tuned VESC 75v100a Controller",
+        "width": 2000,
+        "height": 2000
+      }
+    ],
+    "variants": [
+      {
+        "id": 47102318936220,
+        "title": "36v Tune",
+        "price": "229.00",
+        "compareAtPrice": null,
+        "option1": "36v Tune",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47102318968988,
+        "title": "48v Tune",
+        "price": "229.00",
+        "compareAtPrice": null,
+        "option1": "48v Tune",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47102319001756,
+        "title": "60v Tune",
+        "price": "229.00",
+        "compareAtPrice": null,
+        "option1": "60v Tune",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "tottoms-joker-v2-pro-kart": {
+    "id": 8960955154588,
+    "handle": "tottoms-joker-v2-pro-kart",
+    "title": "JOKER Belt Drive PRO Kart",
+    "vendor": "2026 TOTTOMS™ PRO KART",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00166.jpg?v=1776023295",
+        "alt": "JOKER Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00158.jpg?v=1776023295",
+        "alt": "JOKER Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00139.jpg?v=1776023295",
+        "alt": "JOKER Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00002.jpg?v=1776023295",
+        "alt": "JOKER Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00019.jpg?v=1776023295",
+        "alt": "JOKER Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00027.jpg?v=1776023295",
+        "alt": "JOKER Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00038.jpg?v=1776023295",
+        "alt": "JOKER Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00055.jpg?v=1776023295",
+        "alt": "JOKER Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00090.jpg?v=1776023295",
+        "alt": "JOKER Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00096.jpg?v=1776023295",
+        "alt": "JOKER Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00108.jpg?v=1776023295",
+        "alt": "JOKER Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00116_bbaefb8f-45ea-4223-8bf8-e08681ddf444.jpg?v=1776023295",
+        "alt": "JOKER Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00124.jpg?v=1776023295",
+        "alt": "JOKER Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00176.jpg?v=1776023275",
+        "alt": "JOKER Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00285.jpg?v=1776023275",
+        "alt": "JOKER Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00316.jpg?v=1776023276",
+        "alt": "JOKER Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      }
+    ],
+    "variants": [
+      {
+        "id": 46594277015708,
+        "title": "Default Title",
+        "price": "3499.00",
+        "compareAtPrice": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": "PRKT-JOKER"
+      }
+    ]
+  },
+  "tottoms-blackout-pro-kart": {
+    "id": 8972162498716,
+    "handle": "tottoms-blackout-pro-kart",
+    "title": "\"Blackout\" Belt Drive PRO Kart",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p><b><strong>2026 TOTTOMS™ PRO KART</strong></b></p>\n<p><b>Top Speed 45mph (with 60v)</b></p>\n<p>The new<span> </span><strong>2026 Edition</strong></p>\n<p>Designed for<span> both </span><strong>teens and adults up to 6'4 with the adjustable seat upgrade. </strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Built for the spots you've been eyeing. Empty parking lots, smooth streets, late night sessions with your crew. This kart is designed for durability, smoothness, speed, and extended battery life.</p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>Why does it cost $2,699?</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">You're not paying for a DIY build. You're paying for years of development that went into building something that actually rips.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">You're paying for a full brushless powertrain with the ability to tune the kart through a simple phone app. You're paying for the Tottoms PRO fork system, which gives you access to our hydraulic brake kit and a PRO fork lifetime warranty. You're getting a sealed headset compared to the stock open bearing setup, giving you smooth and precise steering every time.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">You're paying for the Tottoms caster upgrade, built with sealed bearings that keep the grime out and support the wider longboard wheels designed for high speed and durability. You're paying for our high quality lithium batteries that don't sag under high load and deliver instant torque. </p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">And most of all, you're getting something that took years of testing and real world development to get right. One of the most reliable and easy to maintain setups on the market today.</p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>How fast does it go?</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">That depends on the voltage you pick at checkout. Same kart, same motor, different battery.</p>\n<div class=\"overflow-x-auto w-full px-2 mb-6\">\n<p>36V — 1,080W — ~25 mph — Learning, technical spots</p>\n<p>48V — 2,880W — ~35 mph — Most popular, great all-rounder</p>\n<p>60V — 4,000W — ~45 mph — Maximum performance and torque</p>\n</div>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Not sure which to pick? Start with 48V. It's our most popular setup, fast enough to be genuinely exciting, controlled enough to learn on, and you can always upgrade to 60V later with a battery swap. No new motor required.</p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>How far can it go?</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><meta charset=\"utf-8\">36V — 10 to 15 miles range — 6 to 8 hour charge time</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">48V — 20+ miles range — 3 to 4 hour charge time</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">60V — 20+ miles range — 2 to 3 hour charge time</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">All on a single charge. Enough to go out, explore, and come back without thinking about the battery.</p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>What makes Tottoms PRO Karts different.</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">We were the first company to build fully brushless pre-built crazy carts. Brushless means more power, more efficiency, less heat, longer life and less maintenance. Other companies may still be running brushed setups or don't have nearly the experience that we do.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">We also run belt drive instead of chain. Smoother, quieter, and it doesn't stretch over time the way a chain does. Less maintenance and better power delivery on every session.</p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>What's included.</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Every PRO Kart ships fully assembled and pre-tested. You ride it, you don't build it.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong><span style=\"text-decoration: underline;\">PRO Kart</span></strong></p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Tottoms PRO Kart</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x PRO Fork with Hydraulic Brakes</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Belt Drive System</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Brushless Powertrain</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Lithium Battery</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Caster Upgrade</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Lithium 5A Battery Charger</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><span style=\"text-decoration: underline;\"><strong>Display (if opted)</strong></span></p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Pre-Installed Display</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Display to VESC Adapter</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">2x Mounting Hardware</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><span style=\"text-decoration: underline;\"><strong>Adjustable Seat (if opted)</strong></span></p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Adjustable Cushioned Seat</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Pre-Installed Seat Adapter Plate</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><span style=\"text-decoration: underline;\"><strong>Underglow Kit (if opted)</strong></span></p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Pre-Installed Underglow</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x 12V Battery Pack</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x 12V Battery Charger</p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>Optional add-ons at checkout.</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">3.5\" Display: real-time speed, battery percentage, motor and controller temps, and an on-the-fly speed and power selector. </p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">Adjustable cushioned seat, fits riders up to 6'4\".</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">LED underglow kit, pre-installed.</p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>Hand assembled in Florida.</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Every kart is built and tested by hand before it ships. </p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Weight limit: 225 to 250 lbs. Kart weight: approximately 75 to 85 lbs depending on spec.</p>",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC09778.jpg?v=1775944404",
+        "alt": "\"Blackout\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC09616.jpg?v=1775944404",
+        "alt": "\"Blackout\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC09745.jpg?v=1775944404",
+        "alt": "\"Blackout\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC09879_v22.jpg?v=1775944404",
+        "alt": "\"Blackout\" Belt Drive PRO Kart",
+        "width": 2120,
+        "height": 1192
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC09687.jpg?v=1775944404",
+        "alt": "\"Blackout\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC09717.jpg?v=1775944404",
+        "alt": "\"Blackout\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC09649.jpg?v=1775944404",
+        "alt": "\"Blackout\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC09670.jpg?v=1775944404",
+        "alt": "\"Blackout\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC09621.jpg?v=1775944404",
+        "alt": "\"Blackout\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC09635.jpg?v=1775944404",
+        "alt": "\"Blackout\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC09879_v2.jpg?v=1775944404",
+        "alt": "\"Blackout\" Belt Drive PRO Kart",
+        "width": 2120,
+        "height": 1192
+      }
+    ],
+    "variants": [
+      {
+        "id": 46660358373532,
+        "title": "Default Title",
+        "price": "2799.00",
+        "compareAtPrice": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "tottoms-yellow-pro-kart": {
+    "id": 8972170428572,
+    "handle": "tottoms-yellow-pro-kart",
+    "title": "\"Sunrise\" Belt Drive PRO Kart",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00043.jpg?v=1775944382",
+        "alt": "\"Sunrise\" Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00069.jpg?v=1775944382",
+        "alt": "\"Sunrise\" Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00095.jpg?v=1775944382",
+        "alt": "\"Sunrise\" Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00105.jpg?v=1775944382",
+        "alt": "\"Sunrise\" Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00121.jpg?v=1775944382",
+        "alt": "\"Sunrise\" Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00147.jpg?v=1775944382",
+        "alt": "\"Sunrise\" Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00157.jpg?v=1775944382",
+        "alt": "\"Sunrise\" Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00175.jpg?v=1775944382",
+        "alt": "\"Sunrise\" Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00197.jpg?v=1775944382",
+        "alt": "\"Sunrise\" Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00220.jpg?v=1775944382",
+        "alt": "\"Sunrise\" Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00335.jpg?v=1775944382",
+        "alt": "\"Sunrise\" Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00341.jpg?v=1775944382",
+        "alt": "\"Sunrise\" Belt Drive PRO Kart",
+        "width": 2048,
+        "height": 1152
+      }
+    ],
+    "variants": [
+      {
+        "id": 46660380328092,
+        "title": "Default Title",
+        "price": "3499.00",
+        "compareAtPrice": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "tottoms-xl-fork-coming-soon": {
+    "id": 9001788080284,
+    "handle": "tottoms-xl-fork-coming-soon",
+    "title": "Tottoms XL Fork - Coming Soon",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Crazy Cart XL",
+    "descriptionHtml": "",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/XLForkComingsoon.jpg?v=1777052212",
+        "alt": "Tottoms XL Fork - Coming Soon",
+        "width": 1800,
+        "height": 1800
+      }
+    ],
+    "variants": [
+      {
+        "id": 46747669725340,
+        "title": "Default Title",
+        "price": "0.00",
+        "compareAtPrice": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "tottoms-redline-belt-drive-street-kart": {
+    "id": 9093296914588,
+    "handle": "tottoms-redline-belt-drive-street-kart",
+    "title": "Tottoms Belt Drive Street Kart - Black",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00456.jpg?v=1780077311",
+        "alt": "Tottoms Belt Drive Street Kart - Black",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00332.jpg?v=1780077311",
+        "alt": "Tottoms Belt Drive Street Kart - Black",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00346.jpg?v=1780077310",
+        "alt": "Tottoms Belt Drive Street Kart - Black",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00347.jpg?v=1780077310",
+        "alt": "Tottoms Belt Drive Street Kart - Black",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00369.jpg?v=1780077310",
+        "alt": "Tottoms Belt Drive Street Kart - Black",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00405.jpg?v=1780077311",
+        "alt": "Tottoms Belt Drive Street Kart - Black",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00428.jpg?v=1780077313",
+        "alt": "Tottoms Belt Drive Street Kart - Black",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00462.jpg?v=1780077311",
+        "alt": "Tottoms Belt Drive Street Kart - Black",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00466.jpg?v=1780077311",
+        "alt": "Tottoms Belt Drive Street Kart - Black",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00468.jpg?v=1780077310",
+        "alt": "Tottoms Belt Drive Street Kart - Black",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC00600.jpg?v=1780077311",
+        "alt": "Tottoms Belt Drive Street Kart - Black",
+        "width": 4240,
+        "height": 2384
+      }
+    ],
+    "variants": [
+      {
+        "id": 46983318896796,
+        "title": "Default Title",
+        "price": "1799.00",
+        "compareAtPrice": "1499.00",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "100v-xl-gt-one-kart": {
+    "id": 9121446658204,
+    "handle": "100v-xl-gt-one-kart",
+    "title": "XL GT-ONE Kart - DEMO UNIT",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Crazy Cart XL",
+    "descriptionHtml": "<p><meta charset=\"utf-8\"><strong>Built for the bigger rider.</strong></p>\n<p><meta charset=\"utf-8\"><strong>DEMO BUILD SPECIAL – SAVE $500</strong><br data-start=\"442\" data-end=\"445\">Featured in Tottoms promotional content and may show minor cosmetic wear. Fully inspected, refreshed, and ready for its first owner.</p>",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/XL-Kart_0013_Remove-tool-edits-3.png?v=1781809872",
+        "alt": "XL GT-ONE Kart - DEMO UNIT",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/XL-Kart_0007_DSC02362.png?v=1781809871",
+        "alt": "XL GT-ONE Kart - DEMO UNIT",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/XL-Kart_0009_DSC02333.png?v=1781809872",
+        "alt": "XL GT-ONE Kart - DEMO UNIT",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/XL-Kart_0011_DSC02305.png?v=1781809872",
+        "alt": "XL GT-ONE Kart - DEMO UNIT",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/XL-Kart_0012_DSC02300.png?v=1781809874",
+        "alt": "XL GT-ONE Kart - DEMO UNIT",
+        "width": 4240,
+        "height": 2384
+      }
+    ],
+    "variants": [
+      {
+        "id": 47090374017180,
+        "title": "Default Title",
+        "price": "4249.00",
+        "compareAtPrice": "4749.00",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": "XLGTONE-R"
+      }
+    ]
+  },
+  "cst-tire": {
+    "id": 9127641874588,
+    "handle": "cst-tire",
+    "title": "200x50 CST Tire",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p class=\"isSelectedEnd\"><span>Our personal favorite tire for Standard Size Crazy Cart rims.</span></p>\n<p><span>This tire delivers excellent grip, strong durability, and a relatively long service life, making it a great choice for riders who want better traction and reliable performance.</span></p>",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/CSTTiretopdown.jpg?v=1720753766",
+        "alt": "200x50 CST Tire",
+        "width": 2000,
+        "height": 2000
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/200x50beltdriverimwithCST.jpg?v=1767565685",
+        "alt": "200x50 CST Tire",
+        "width": 1040,
+        "height": 1040
+      }
+    ],
+    "variants": [
+      {
+        "id": 47101181296796,
+        "title": "Default Title",
+        "price": "14.99",
+        "compareAtPrice": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "200x50-belt-drive-rim-spacers": {
+    "id": 9127719600284,
+    "handle": "200x50-belt-drive-rim-spacers",
+    "title": "200x50 Belt Drive Rim Spacers",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [],
+    "variants": [
+      {
+        "id": 47101917135004,
+        "title": "Default Title",
+        "price": "4.99",
+        "compareAtPrice": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "xl-gt-one-build-slot-1": {
+    "id": 9130980081820,
+    "handle": "xl-gt-one-build-slot-1",
+    "title": "XL GT-ONE Build Slot 1",
+    "vendor": "XL GT-ONE PRODUCTION SLOT",
+    "productType": "",
+    "tags": "Crazy Cart XL",
+    "descriptionHtml": "<p>Reserve one of the next XL GT-ONE custom builds. Every build includes the full GT-ONE performance package with the final color confirmed after checkout.</p>\n<p>🗓 Estimated Completion: Jul-Aug 2026</p>",
+    "options": [
+      {
+        "name": "Select your color preference",
+        "values": [
+          "Tottoms Red",
+          "Gloss Black",
+          "Gloss White",
+          "Custom Color"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/BuildSlot01.jpg?v=1782332092",
+        "alt": "XL GT-ONE Build Slot 1",
+        "width": 1448,
+        "height": 1086
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/XL-Kart_0002_DSC02505_abf828ff-c179-47d5-8ff9-9f5920dd8f14.png?v=1781809871",
+        "alt": "XL GT-ONE Build Slot 1",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/XL-Kart_0011_DSC02305.png?v=1781809872",
+        "alt": "XL GT-ONE Build Slot 1",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/XL_Full_photo.jpg?v=1783016497",
+        "alt": "XL GT-ONE Build Slot 1",
+        "width": 1536,
+        "height": 1152
+      }
+    ],
+    "variants": [
+      {
+        "id": 47106278260892,
+        "title": "Tottoms Red",
+        "price": "4749.00",
+        "compareAtPrice": null,
+        "option1": "Tottoms Red",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47106278424732,
+        "title": "Gloss Black",
+        "price": "4749.00",
+        "compareAtPrice": null,
+        "option1": "Gloss Black",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47106278588572,
+        "title": "Gloss White",
+        "price": "4749.00",
+        "compareAtPrice": null,
+        "option1": "Gloss White",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47106290286748,
+        "title": "Custom Color",
+        "price": "4749.00",
+        "compareAtPrice": null,
+        "option1": "Custom Color",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "xl-gt-one-build-slot-2": {
+    "id": 9131126161564,
+    "handle": "xl-gt-one-build-slot-2",
+    "title": "XL GT-ONE Build Slot 2",
+    "vendor": "XL GT-ONE PRODUCTION SLOT",
+    "productType": "",
+    "tags": "Crazy Cart XL",
+    "descriptionHtml": "<p>Reserve one of the next XL GT-ONE custom builds. Every build includes the full GT-ONE performance package with the final color confirmed after checkout.</p>\n<p>🗓 Estimated Completion: Jul-Aug 2026</p>",
+    "options": [
+      {
+        "name": "Select your color preference",
+        "values": [
+          "Tottoms Red",
+          "Gloss Black",
+          "Gloss White",
+          "Custom Color"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/BuildSlot02.jpg?v=1782332021",
+        "alt": "XL GT-ONE Build Slot 2",
+        "width": 1448,
+        "height": 1086
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/XL-Kart_0002_DSC02505_abf828ff-c179-47d5-8ff9-9f5920dd8f14.png?v=1781809871",
+        "alt": "XL GT-ONE Build Slot 2",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/XL-Kart_0011_DSC02305.png?v=1781809872",
+        "alt": "XL GT-ONE Build Slot 2",
+        "width": 4240,
+        "height": 2384
+      }
+    ],
+    "variants": [
+      {
+        "id": 47106494136476,
+        "title": "Tottoms Red",
+        "price": "4749.00",
+        "compareAtPrice": null,
+        "option1": "Tottoms Red",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47106494169244,
+        "title": "Gloss Black",
+        "price": "4749.00",
+        "compareAtPrice": null,
+        "option1": "Gloss Black",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47106494202012,
+        "title": "Gloss White",
+        "price": "4749.00",
+        "compareAtPrice": null,
+        "option1": "Gloss White",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47106494234780,
+        "title": "Custom Color",
+        "price": "4749.00",
+        "compareAtPrice": null,
+        "option1": "Custom Color",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "xl-100v-gt-one-upgrade-kit-crazy-cart-xl-upgrade": {
+    "id": 9132039209116,
+    "handle": "xl-100v-gt-one-upgrade-kit-crazy-cart-xl-upgrade",
+    "title": "XL 100v GT-ONE Upgrade Kit",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Crazy Cart XL",
+    "descriptionHtml": "<p class=\"isSelectedEnd\"><strong>FOR CRAZY CART XL</strong></p>\n<p class=\"isSelectedEnd\"><span>Reserve <strong>one of only five</strong> of the next XL GT-ONE full plug-and-play kits.</span></p>\n<p><span>This is our complete kit for the Crazy Cart XL. It comes with all of the parts needed for the install like the 100v battery and digital display, so the only thing you need to pick is your fork color. You can see everything that comes standard with the kit below.</span></p>\n<p><em>Details subject to change</em></p>\n<p>🗓 Estimated Completion: Jul-Aug 2026</p>",
+    "options": [
+      {
+        "name": "Fork Color",
+        "values": [
+          "Gloss Black",
+          "Matte Black",
+          "Gloss White",
+          "Custom Color"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/XL_Main_Photo-2.jpg?v=1782931475",
+        "alt": "XL 100v GT-ONE Upgrade Kit",
+        "width": 1310,
+        "height": 1309
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/XL_Full_photo_v2.jpg?v=1783017635",
+        "alt": "XL 100v GT-ONE Upgrade Kit",
+        "width": 1536,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/XL_Fork_Kit.png?v=1782860573",
+        "alt": "XL 100v GT-ONE Upgrade Kit",
+        "width": 1448,
+        "height": 1086
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/XL_Kit_Electronics.jpg?v=1782931804",
+        "alt": "XL 100v GT-ONE Upgrade Kit",
+        "width": 1536,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/XL-Kart_0012_DSC02300.png?v=1781809874",
+        "alt": "XL 100v GT-ONE Upgrade Kit",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/XL-Kart_0008_DSC02351.png?v=1781809871",
+        "alt": "XL 100v GT-ONE Upgrade Kit",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/XL-Kart_0006_Remove-tool-edits.png?v=1781809871",
+        "alt": "XL 100v GT-ONE Upgrade Kit",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/XL-Kart_0003_Remove-tool-edits-1.png?v=1781809872",
+        "alt": "XL 100v GT-ONE Upgrade Kit",
+        "width": 4240,
+        "height": 2384
+      }
+    ],
+    "variants": [
+      {
+        "id": 47142362972316,
+        "title": "Gloss Black",
+        "price": "2499.00",
+        "compareAtPrice": null,
+        "option1": "Gloss Black",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47142363005084,
+        "title": "Matte Black",
+        "price": "2499.00",
+        "compareAtPrice": null,
+        "option1": "Matte Black",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47142363037852,
+        "title": "Gloss White",
+        "price": "2499.00",
+        "compareAtPrice": null,
+        "option1": "Gloss White",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47142363070620,
+        "title": "Custom Color",
+        "price": "2499.00",
+        "compareAtPrice": null,
+        "option1": "Custom Color",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "chargedup-3-5-digital-display": {
+    "id": 9136101621916,
+    "handle": "chargedup-3-5-digital-display",
+    "title": "ChargedUp 3.5\" Digital Display",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "",
+    "options": [
+      {
+        "name": "Mounting Option",
+        "values": [
+          "Standard Crazy Cart",
+          "Crazy Cart XL"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Screen.jpg?v=1782744917",
+        "alt": "ChargedUp 3.5\" Digital Display",
+        "width": 2048,
+        "height": 1152
+      }
+    ],
+    "variants": [
+      {
+        "id": 47125783904412,
+        "title": "Standard Crazy Cart",
+        "price": "149.00",
+        "compareAtPrice": null,
+        "option1": "Standard Crazy Cart",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47125783937180,
+        "title": "Crazy Cart XL",
+        "price": "149.00",
+        "compareAtPrice": null,
+        "option1": "Crazy Cart XL",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "4000w-chain-drive-street-kit-for-standard-crazy-cart-copy": {
+    "id": 9136203432092,
+    "handle": "4000w-chain-drive-street-kit-for-standard-crazy-cart-copy",
+    "title": "4000w Chain Drive Street Kit",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "<p><meta charset=\"utf-8\"><b>For Standard Crazy Cart (V2+)</b></p>",
+    "options": [
+      {
+        "name": "Pre-Assembled Stock Fork?",
+        "values": [
+          "No Ill Use My Own Fork",
+          "Yes Include Pre-Assembled Fork +$79"
+        ]
+      },
+      {
+        "name": "Battery Option",
+        "values": [
+          "No Battery 36v Tune",
+          "No Battery 48v Tune",
+          "No Battery 60v Tune",
+          "Include Amorge 36v 12Ah Battery (Metal Case) +$300",
+          "Include Amorge 48v 16Ah Battery (Metal Case) +$500"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Chain_Drive_on_fork.png?v=1774641154",
+        "alt": "4000w Chain Drive Street Kit",
+        "width": 1024,
+        "height": 1024
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/chain_drive_v2.jpg?v=1782744917",
+        "alt": "4000w Chain Drive Street Kit",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/chain_drive.jpg?v=1782744917",
+        "alt": "4000w Chain Drive Street Kit",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/Screen.jpg?v=1782744917",
+        "alt": "4000w Chain Drive Street Kit",
+        "width": 2048,
+        "height": 1152
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/pro_kit_0001_5.jpg?v=1782505471",
+        "alt": "4000w Chain Drive Street Kit",
+        "width": 4240,
+        "height": 2384
+      }
+    ],
+    "variants": [
+      {
+        "id": 47126088417436,
+        "title": "No Ill Use My Own Fork / No Battery 36v Tune",
+        "price": "599.00",
+        "compareAtPrice": null,
+        "option1": "No Ill Use My Own Fork",
+        "option2": "No Battery 36v Tune",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47126088450204,
+        "title": "No Ill Use My Own Fork / No Battery 48v Tune",
+        "price": "599.00",
+        "compareAtPrice": null,
+        "option1": "No Ill Use My Own Fork",
+        "option2": "No Battery 48v Tune",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47126088482972,
+        "title": "No Ill Use My Own Fork / No Battery 60v Tune",
+        "price": "599.00",
+        "compareAtPrice": null,
+        "option1": "No Ill Use My Own Fork",
+        "option2": "No Battery 60v Tune",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47126088515740,
+        "title": "No Ill Use My Own Fork / Include Amorge 36v 12Ah Battery (Metal Case) +$300",
+        "price": "899.00",
+        "compareAtPrice": null,
+        "option1": "No Ill Use My Own Fork",
+        "option2": "Include Amorge 36v 12Ah Battery (Metal Case) +$300",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47126088548508,
+        "title": "No Ill Use My Own Fork / Include Amorge 48v 16Ah Battery (Metal Case) +$500",
+        "price": "1099.00",
+        "compareAtPrice": null,
+        "option1": "No Ill Use My Own Fork",
+        "option2": "Include Amorge 48v 16Ah Battery (Metal Case) +$500",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47126088581276,
+        "title": "Yes Include Pre-Assembled Fork +$79 / No Battery 36v Tune",
+        "price": "678.00",
+        "compareAtPrice": null,
+        "option1": "Yes Include Pre-Assembled Fork +$79",
+        "option2": "No Battery 36v Tune",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47126088614044,
+        "title": "Yes Include Pre-Assembled Fork +$79 / No Battery 48v Tune",
+        "price": "678.00",
+        "compareAtPrice": null,
+        "option1": "Yes Include Pre-Assembled Fork +$79",
+        "option2": "No Battery 48v Tune",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47126088646812,
+        "title": "Yes Include Pre-Assembled Fork +$79 / No Battery 60v Tune",
+        "price": "678.00",
+        "compareAtPrice": null,
+        "option1": "Yes Include Pre-Assembled Fork +$79",
+        "option2": "No Battery 60v Tune",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47126088679580,
+        "title": "Yes Include Pre-Assembled Fork +$79 / Include Amorge 36v 12Ah Battery (Metal Case) +$300",
+        "price": "978.00",
+        "compareAtPrice": null,
+        "option1": "Yes Include Pre-Assembled Fork +$79",
+        "option2": "Include Amorge 36v 12Ah Battery (Metal Case) +$300",
+        "option3": null,
+        "sku": null
+      },
+      {
+        "id": 47126088712348,
+        "title": "Yes Include Pre-Assembled Fork +$79 / Include Amorge 48v 16Ah Battery (Metal Case) +$500",
+        "price": "1178.00",
+        "compareAtPrice": null,
+        "option1": "Yes Include Pre-Assembled Fork +$79",
+        "option2": "Include Amorge 48v 16Ah Battery (Metal Case) +$500",
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "xl-full-rim-assembly-with-60t-billet-sprocket": {
+    "id": 9141222310044,
+    "handle": "xl-full-rim-assembly-with-60t-billet-sprocket",
+    "title": "XL Full Rim Assembly with 60T Billet Sprocket",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Crazy Cart XL",
+    "descriptionHtml": "",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [],
+    "variants": [
+      {
+        "id": 47142611386524,
+        "title": "Default Title",
+        "price": "149.00",
+        "compareAtPrice": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "xl-tool-less-quickswap-rim-mount": {
+    "id": 9141222801564,
+    "handle": "xl-tool-less-quickswap-rim-mount",
+    "title": "XL Tool-Less QuickSwap Rim Mount",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Crazy Cart XL",
+    "descriptionHtml": "",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [],
+    "variants": [
+      {
+        "id": 47142612598940,
+        "title": "Default Title",
+        "price": "0.00",
+        "compareAtPrice": null,
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "ghost-v2-belt-drive-pro-kart": {
+    "id": 9162838474908,
+    "handle": "ghost-v2-belt-drive-pro-kart",
+    "title": "\"Ghost v2\" Belt Drive PRO Kart",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC04695.jpg?v=1784240314",
+        "alt": "\"Ghost v2\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC04596.jpg?v=1784240314",
+        "alt": "\"Ghost v2\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC04610.jpg?v=1784240314",
+        "alt": "\"Ghost v2\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC04628.jpg?v=1784240313",
+        "alt": "\"Ghost v2\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC04631.jpg?v=1784240314",
+        "alt": "\"Ghost v2\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC04641.jpg?v=1784240313",
+        "alt": "\"Ghost v2\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC04647.jpg?v=1784240314",
+        "alt": "\"Ghost v2\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC04711.jpg?v=1784240313",
+        "alt": "\"Ghost v2\" Belt Drive PRO Kart",
+        "width": 3182,
+        "height": 1789
+      }
+    ],
+    "variants": [
+      {
+        "id": 47226628931740,
+        "title": "Default Title",
+        "price": "2999.00",
+        "compareAtPrice": "3499.00",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  },
+  "signature-ruby-belt-drive-pro-kart": {
+    "id": 9162840211612,
+    "handle": "signature-ruby-belt-drive-pro-kart",
+    "title": "\"Signature Ruby\" Belt Drive PRO Kart",
+    "vendor": "Tottoms",
+    "productType": "",
+    "tags": "Standard Crazy Cart",
+    "descriptionHtml": "",
+    "options": [
+      {
+        "name": "Title",
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC04877.jpg?v=1784241140",
+        "alt": "\"Signature Ruby\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC04854.jpg?v=1784241140",
+        "alt": "\"Signature Ruby\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC04864.jpg?v=1784241140",
+        "alt": "\"Signature Ruby\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC04889.jpg?v=1784241140",
+        "alt": "\"Signature Ruby\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC04911.jpg?v=1784241140",
+        "alt": "\"Signature Ruby\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC04836.jpg?v=1784241141",
+        "alt": "\"Signature Ruby\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC04926.jpg?v=1784241140",
+        "alt": "\"Signature Ruby\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      },
+      {
+        "src": "https://cdn.shopify.com/s/files/1/0639/5297/8076/files/DSC04932.jpg?v=1784241140",
+        "alt": "\"Signature Ruby\" Belt Drive PRO Kart",
+        "width": 4240,
+        "height": 2384
+      }
+    ],
+    "variants": [
+      {
+        "id": 47226635223196,
+        "title": "Default Title",
+        "price": "2999.00",
+        "compareAtPrice": "3499.00",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": null
+      }
+    ]
+  }
+}
