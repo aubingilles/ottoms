@@ -50,14 +50,14 @@ export default function ContactPage() {
         <ul className="flex flex-col gap-6">
           <li className="flex flex-col gap-2">
             <p className="text-xs uppercase tracking-widest text-muted">Email</p>
-            <a href="mailto:support@tottoms.com" className="text-sm hover:underline">
-              support@tottoms.com
+            <a href="mailto:info@drifttottoms.com" className="text-sm hover:underline">
+              info@drifttottoms.com
             </a>
           </li>
           <li className="flex flex-col gap-2">
             <p className="text-xs uppercase tracking-widest text-muted">Phone</p>
-            <a href="tel:+17274944652" className="text-sm hover:underline">
-              +1 727-494-4652
+            <a href="tel:+15304920659" className="text-sm hover:underline">
+              +1 (530) 492-0659
             </a>
           </li>
         </ul>
