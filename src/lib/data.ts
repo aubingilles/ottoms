@@ -64,7 +64,7 @@ export const FOOTER_POLICY_LINKS = [
 ] as const;
 
 export const SOCIAL_LINKS = [
-  { label: "Instagram", href: "https://www.instagram.com/drifttottoms" },
-  { label: "TikTok", href: "https://tiktok.com/tottoms" },
-  { label: "YouTube", href: "https://www.youtube.com/@drifttottoms" },
+  { label: "X", href: "https://x.com/drifttottoms?s=11" },
+  { label: "TikTok", href: "https://www.tiktok.com/@driftottoms?_r=1&_t=ZG-98o09wpvfjk" },
+  { label: "YouTube", href: "https://youtube.com/@drifttottoms?si=w8yK6tf_C7DYdpTU" },
 ] as const;
