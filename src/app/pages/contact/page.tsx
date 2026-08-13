@@ -50,8 +50,8 @@ export default function ContactPage() {
         <ul className="flex flex-col gap-6">
           <li className="flex flex-col gap-2">
             <p className="text-xs uppercase tracking-widest text-muted">Email</p>
-            <a href="mailto:info@drifttottoms.com" className="text-sm hover:underline">
-              info@drifttottoms.com
+            <a href="mailto:support@drifttottoms.com" className="text-sm hover:underline">
+              support@drifttottoms.com
             </a>
           </li>
           <li className="flex flex-col gap-2">
