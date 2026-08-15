@@ -17,6 +17,6 @@
   "contact-information": {
     "handle": "contact-information",
     "title": "Contact information",
-    "bodyHtml": "\n      <div>\n  <div>\n    <h1>Contact information</h1>\n  </div>\n\n  <div>\n    <div class=\"rte\">\n        <p><span>Trade name: Tottoms</span></p>\n<p><span>Phone number: 7274944652</span></p>\n<p><span>Email: support@tottoms.com</span></p>\n\n    </div>\n  </div>\n</div>\n\n    "
+    "bodyHtml": "\n      <div>\n  <div>\n    <h1>Contact information</h1>\n  </div>\n\n  <div>\n    <div class=\"rte\">\n        <p><span>Trade name: Tottoms</span></p>\n<p><span>Phone number: +1 (530) 492-0659</span></p>\n<p><span>Email: support@drifttottoms.com</span></p>\n\n    </div>\n  </div>\n</div>\n\n    "
   }
 }
