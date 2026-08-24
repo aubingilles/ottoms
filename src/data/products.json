@@ -33,7 +33,7 @@
       {
         "id": 44200217903260,
         "title": "Default Title",
-        "price": "9.99",
+        "price": "5.00",
         "compareAtPrice": "12.00",
         "option1": "Default Title",
         "option2": null,
@@ -80,7 +80,7 @@
       {
         "id": 44550910279836,
         "title": "S",
-        "price": "39.00",
+        "price": "19.50",
         "compareAtPrice": "49.00",
         "option1": "S",
         "option2": null,
@@ -90,7 +90,7 @@
       {
         "id": 44550910312604,
         "title": "M",
-        "price": "39.00",
+        "price": "19.50",
         "compareAtPrice": "49.00",
         "option1": "M",
         "option2": null,
@@ -100,7 +100,7 @@
       {
         "id": 44550910345372,
         "title": "L",
-        "price": "39.00",
+        "price": "19.50",
         "compareAtPrice": "49.00",
         "option1": "L",
         "option2": null,
@@ -110,7 +110,7 @@
       {
         "id": 44550910378140,
         "title": "XL",
-        "price": "42.00",
+        "price": "21.00",
         "compareAtPrice": "49.00",
         "option1": "XL",
         "option2": null,
@@ -120,7 +120,7 @@
       {
         "id": 44550910410908,
         "title": "2XL",
-        "price": "42.00",
+        "price": "21.00",
         "compareAtPrice": "49.00",
         "option1": "2XL",
         "option2": null,
@@ -167,7 +167,7 @@
       {
         "id": 44550911099036,
         "title": "S",
-        "price": "39.00",
+        "price": "19.50",
         "compareAtPrice": "45.00",
         "option1": "S",
         "option2": null,
@@ -177,7 +177,7 @@
       {
         "id": 44550911131804,
         "title": "M",
-        "price": "39.00",
+        "price": "19.50",
         "compareAtPrice": "45.00",
         "option1": "M",
         "option2": null,
@@ -187,7 +187,7 @@
       {
         "id": 44550911164572,
         "title": "L",
-        "price": "39.00",
+        "price": "19.50",
         "compareAtPrice": "45.00",
         "option1": "L",
         "option2": null,
@@ -197,7 +197,7 @@
       {
         "id": 44550911197340,
         "title": "XL",
-        "price": "42.00",
+        "price": "21.00",
         "compareAtPrice": "45.00",
         "option1": "XL",
         "option2": null,
@@ -207,7 +207,7 @@
       {
         "id": 44550911230108,
         "title": "2XL",
-        "price": "42.00",
+        "price": "21.00",
         "compareAtPrice": "45.00",
         "option1": "2XL",
         "option2": null,
@@ -254,7 +254,7 @@
       {
         "id": 44550908870812,
         "title": "S",
-        "price": "39.00",
+        "price": "19.50",
         "compareAtPrice": "49.00",
         "option1": "S",
         "option2": null,
@@ -264,7 +264,7 @@
       {
         "id": 44550908903580,
         "title": "M",
-        "price": "39.00",
+        "price": "19.50",
         "compareAtPrice": "49.00",
         "option1": "M",
         "option2": null,
@@ -274,7 +274,7 @@
       {
         "id": 44550908936348,
         "title": "L",
-        "price": "39.00",
+        "price": "19.50",
         "compareAtPrice": "49.00",
         "option1": "L",
         "option2": null,
@@ -284,7 +284,7 @@
       {
         "id": 44550908969116,
         "title": "XL",
-        "price": "42.00",
+        "price": "21.00",
         "compareAtPrice": "49.00",
         "option1": "XL",
         "option2": null,
@@ -294,7 +294,7 @@
       {
         "id": 44550909001884,
         "title": "2XL",
-        "price": "42.00",
+        "price": "21.00",
         "compareAtPrice": "49.00",
         "option1": "2XL",
         "option2": null,
@@ -341,7 +341,7 @@
       {
         "id": 44550908018844,
         "title": "S",
-        "price": "39.00",
+        "price": "19.50",
         "compareAtPrice": "49.00",
         "option1": "S",
         "option2": null,
@@ -351,7 +351,7 @@
       {
         "id": 44550908051612,
         "title": "M",
-        "price": "39.00",
+        "price": "19.50",
         "compareAtPrice": "49.00",
         "option1": "M",
         "option2": null,
@@ -361,7 +361,7 @@
       {
         "id": 44550908084380,
         "title": "L",
-        "price": "39.00",
+        "price": "19.50",
         "compareAtPrice": "49.00",
         "option1": "L",
         "option2": null,
@@ -371,7 +371,7 @@
       {
         "id": 44550908117148,
         "title": "XL",
-        "price": "42.00",
+        "price": "21.00",
         "compareAtPrice": "49.00",
         "option1": "XL",
         "option2": null,
@@ -381,7 +381,7 @@
       {
         "id": 44550908149916,
         "title": "2XL",
-        "price": "42.00",
+        "price": "21.00",
         "compareAtPrice": "49.00",
         "option1": "2XL",
         "option2": null,
@@ -397,7 +397,7 @@
     "vendor": "Tottoms",
     "productType": "",
     "tags": "Crazy Cart XL, Standard Crazy Cart",
-    "descriptionHtml": "<p><meta charset=\"utf-8\">The <strong>Tottoms SLOTTED Foot Pedal </strong>is a great addition to any crazy cart, not only in looks, but also in functionality. By increasing the length of the pivot point, it gives you more angular resolution so you can fine tune your throttle control and hit drifts easier!<strong></strong></p>\n<p> </p>",
+    "descriptionHtml": "<p><meta charset=\"utf-8\">The <strong>Tottoms SLOTTED Foot Pedal\u00a0</strong>is a great addition to any crazy cart, not only in looks, but also in functionality. By increasing the length of the pivot point, it gives you more angular resolution so you can fine tune your throttle control and hit drifts easier!<strong></strong></p>\n<p>\u00a0</p>",
     "options": [
       {
         "name": "Title",
@@ -448,7 +448,7 @@
       {
         "id": 44703846563996,
         "title": "Default Title",
-        "price": "29.99",
+        "price": "14.99",
         "compareAtPrice": "29.99",
         "option1": "Default Title",
         "option2": null,
@@ -503,7 +503,7 @@
       {
         "id": 44703874449564,
         "title": "Default Title",
-        "price": "29.99",
+        "price": "14.99",
         "compareAtPrice": "29.99",
         "option1": "Default Title",
         "option2": null,
@@ -564,7 +564,7 @@
       {
         "id": 46600050475164,
         "title": "Default Title",
-        "price": "229.00",
+        "price": "114.50",
         "compareAtPrice": "0.00",
         "option1": "Default Title",
         "option2": null,
@@ -607,7 +607,7 @@
       {
         "id": 44711655964828,
         "title": "Default Title",
-        "price": "20.00",
+        "price": "10.00",
         "compareAtPrice": null,
         "option1": "Default Title",
         "option2": null,
@@ -644,7 +644,7 @@
       {
         "id": 44711656161436,
         "title": "Default Title",
-        "price": "10.00",
+        "price": "5.00",
         "compareAtPrice": null,
         "option1": "Default Title",
         "option2": null,
@@ -716,7 +716,7 @@
       {
         "id": 47124479443100,
         "title": "No Ill Use My Own Fork / No Battery 36v Tune",
-        "price": "699.00",
+        "price": "349.50",
         "compareAtPrice": null,
         "option1": "No Ill Use My Own Fork",
         "option2": "No Battery 36v Tune",
@@ -726,7 +726,7 @@
       {
         "id": 47124479475868,
         "title": "No Ill Use My Own Fork / No Battery 48v Tune",
-        "price": "699.00",
+        "price": "349.50",
         "compareAtPrice": null,
         "option1": "No Ill Use My Own Fork",
         "option2": "No Battery 48v Tune",
@@ -736,7 +736,7 @@
       {
         "id": 47124479508636,
         "title": "No Ill Use My Own Fork / No Battery 60v Tune",
-        "price": "699.00",
+        "price": "349.50",
         "compareAtPrice": null,
         "option1": "No Ill Use My Own Fork",
         "option2": "No Battery 60v Tune",
@@ -746,7 +746,7 @@
       {
         "id": 47124479541404,
         "title": "No Ill Use My Own Fork / Include Amorge 36v 12Ah Battery (Metal Case) +$300",
-        "price": "999.00",
+        "price": "499.50",
         "compareAtPrice": null,
         "option1": "No Ill Use My Own Fork",
         "option2": "Include Amorge 36v 12Ah Battery (Metal Case) +$300",
@@ -756,7 +756,7 @@
       {
         "id": 47124479574172,
         "title": "No Ill Use My Own Fork / Include Amorge 48v 16Ah Battery (Metal Case) +$500",
-        "price": "1199.00",
+        "price": "599.50",
         "compareAtPrice": null,
         "option1": "No Ill Use My Own Fork",
         "option2": "Include Amorge 48v 16Ah Battery (Metal Case) +$500",
@@ -766,7 +766,7 @@
       {
         "id": 47124479606940,
         "title": "Yes Include Pre-Assembled Fork +$79 / No Battery 36v Tune",
-        "price": "778.00",
+        "price": "389.00",
         "compareAtPrice": null,
         "option1": "Yes Include Pre-Assembled Fork +$79",
         "option2": "No Battery 36v Tune",
@@ -776,7 +776,7 @@
       {
         "id": 47124479639708,
         "title": "Yes Include Pre-Assembled Fork +$79 / No Battery 48v Tune",
-        "price": "778.00",
+        "price": "389.00",
         "compareAtPrice": null,
         "option1": "Yes Include Pre-Assembled Fork +$79",
         "option2": "No Battery 48v Tune",
@@ -786,7 +786,7 @@
       {
         "id": 47124479672476,
         "title": "Yes Include Pre-Assembled Fork +$79 / No Battery 60v Tune",
-        "price": "778.00",
+        "price": "389.00",
         "compareAtPrice": null,
         "option1": "Yes Include Pre-Assembled Fork +$79",
         "option2": "No Battery 60v Tune",
@@ -796,7 +796,7 @@
       {
         "id": 47124479705244,
         "title": "Yes Include Pre-Assembled Fork +$79 / Include Amorge 36v 12Ah Battery (Metal Case) +$300",
-        "price": "1078.00",
+        "price": "539.00",
         "compareAtPrice": null,
         "option1": "Yes Include Pre-Assembled Fork +$79",
         "option2": "Include Amorge 36v 12Ah Battery (Metal Case) +$300",
@@ -806,7 +806,7 @@
       {
         "id": 47124479738012,
         "title": "Yes Include Pre-Assembled Fork +$79 / Include Amorge 48v 16Ah Battery (Metal Case) +$500",
-        "price": "1278.00",
+        "price": "639.00",
         "compareAtPrice": null,
         "option1": "Yes Include Pre-Assembled Fork +$79",
         "option2": "Include Amorge 48v 16Ah Battery (Metal Case) +$500",
@@ -855,7 +855,7 @@
       {
         "id": 45889906049180,
         "title": "Default Title",
-        "price": "39.00",
+        "price": "19.50",
         "compareAtPrice": "0.00",
         "option1": "Default Title",
         "option2": null,
@@ -871,7 +871,7 @@
     "vendor": "Tottoms",
     "productType": "",
     "tags": "Standard Crazy Cart",
-    "descriptionHtml": "<p><meta charset=\"utf-8\"><strong data-start=\"93\" data-end=\"118\">1-1/8\" Sealed Headset</strong><br data-start=\"118\" data-end=\"121\">Upgrade your steering with this high-quality sealed bearing headset.<br data-start=\"189\" data-end=\"192\">• Compatible with both Standard and XL Crazy Carts<br data-start=\"242\" data-end=\"245\">• Smooth, durable performance with sealed cartridge bearings<br data-start=\"305\" data-end=\"308\">• 1-1/8\" threaded design</p>",
+    "descriptionHtml": "<p><meta charset=\"utf-8\"><strong data-start=\"93\" data-end=\"118\">1-1/8\" Sealed Headset</strong><br data-start=\"118\" data-end=\"121\">Upgrade your steering with this high-quality sealed bearing headset.<br data-start=\"189\" data-end=\"192\">\u2022 Compatible with both Standard and XL Crazy Carts<br data-start=\"242\" data-end=\"245\">\u2022 Smooth, durable performance with sealed cartridge bearings<br data-start=\"305\" data-end=\"308\">\u2022 1-1/8\" threaded design</p>",
     "options": [
       {
         "name": "Title",
@@ -916,7 +916,7 @@
       {
         "id": 45177080676508,
         "title": "Default Title",
-        "price": "29.99",
+        "price": "14.99",
         "compareAtPrice": "45.00",
         "option1": "Default Title",
         "option2": null,
@@ -1007,7 +1007,7 @@
       {
         "id": 46006291955868,
         "title": "Default Title",
-        "price": "189.00",
+        "price": "94.50",
         "compareAtPrice": "179.00",
         "option1": "Default Title",
         "option2": null,
@@ -1023,7 +1023,7 @@
     "vendor": "Tottoms",
     "productType": "",
     "tags": "Standard Crazy Cart",
-    "descriptionHtml": "<p><strong>FOR STANDARD SIZE CRAZY CARTS (NOT XL's)</strong></p>\n<p><meta charset=\"utf-8\">The PRO Fork System was built for more powerful motors offering a significant upgrade in rigidity and durability. It’s now running on hundreds of karts around the world, and we’re proud to say it’s become one of the core upgrades in the Tottoms ecosystem.</p>\n<p><strong>This kit is specifically for 7070 style motors but will be compatible with future motors.</strong></p>",
+    "descriptionHtml": "<p><strong>FOR STANDARD SIZE CRAZY CARTS (NOT XL's)</strong></p>\n<p><meta charset=\"utf-8\">The PRO Fork System was built for more powerful motors offering a significant upgrade in rigidity and durability. It\u2019s now running on hundreds of karts around the world, and we\u2019re proud to say it\u2019s become one of the core upgrades in the Tottoms ecosystem.</p>\n<p><strong>This kit is specifically for 7070 style motors but will be compatible with future motors.</strong></p>",
     "options": [
       {
         "name": "Color Option",
@@ -1071,7 +1071,7 @@
       {
         "id": 47149251264668,
         "title": "Gloss Black",
-        "price": "599.00",
+        "price": "299.50",
         "compareAtPrice": null,
         "option1": "Gloss Black",
         "option2": null,
@@ -1081,7 +1081,7 @@
       {
         "id": 47149251297436,
         "title": "Gloss White",
-        "price": "599.00",
+        "price": "299.50",
         "compareAtPrice": null,
         "option1": "Gloss White",
         "option2": null,
@@ -1091,7 +1091,7 @@
       {
         "id": 47149251330204,
         "title": "Matte Black",
-        "price": "599.00",
+        "price": "299.50",
         "compareAtPrice": null,
         "option1": "Matte Black",
         "option2": null,
@@ -1101,7 +1101,7 @@
       {
         "id": 47149251362972,
         "title": "Custom Color",
-        "price": "599.00",
+        "price": "299.50",
         "compareAtPrice": null,
         "option1": "Custom Color",
         "option2": null,
@@ -1144,7 +1144,7 @@
       {
         "id": 45851492090012,
         "title": "Blue",
-        "price": "89.00",
+        "price": "44.50",
         "compareAtPrice": null,
         "option1": "Blue",
         "option2": null,
@@ -1154,7 +1154,7 @@
       {
         "id": 45851492122780,
         "title": "Red",
-        "price": "89.00",
+        "price": "44.50",
         "compareAtPrice": null,
         "option1": "Red",
         "option2": null,
@@ -1164,7 +1164,7 @@
       {
         "id": 45851492155548,
         "title": "Gloss White",
-        "price": "89.00",
+        "price": "44.50",
         "compareAtPrice": null,
         "option1": "Gloss White",
         "option2": null,
@@ -1174,7 +1174,7 @@
       {
         "id": 45851492188316,
         "title": "Pink",
-        "price": "89.00",
+        "price": "44.50",
         "compareAtPrice": null,
         "option1": "Pink",
         "option2": null,
@@ -1184,7 +1184,7 @@
       {
         "id": 45851492221084,
         "title": "Green",
-        "price": "89.00",
+        "price": "44.50",
         "compareAtPrice": null,
         "option1": "Green",
         "option2": null,
@@ -1194,7 +1194,7 @@
       {
         "id": 45851492253852,
         "title": "Yellow",
-        "price": "89.00",
+        "price": "44.50",
         "compareAtPrice": null,
         "option1": "Yellow",
         "option2": null,
@@ -1204,7 +1204,7 @@
       {
         "id": 45851492286620,
         "title": "Purple",
-        "price": "89.00",
+        "price": "44.50",
         "compareAtPrice": null,
         "option1": "Purple",
         "option2": null,
@@ -1266,7 +1266,7 @@
       {
         "id": 46028088606876,
         "title": "Include Adjustable Seat +$90",
-        "price": "189.00",
+        "price": "94.50",
         "compareAtPrice": null,
         "option1": "Include Adjustable Seat +$90",
         "option2": null,
@@ -1276,7 +1276,7 @@
       {
         "id": 46028088574108,
         "title": "No seat just the adapter plate",
-        "price": "99.00",
+        "price": "49.50",
         "compareAtPrice": null,
         "option1": "No seat just the adapter plate",
         "option2": null,
@@ -1361,7 +1361,7 @@
       {
         "id": 45873576673436,
         "title": "Default Title",
-        "price": "89.00",
+        "price": "44.50",
         "compareAtPrice": null,
         "option1": "Default Title",
         "option2": null,
@@ -1377,7 +1377,7 @@
     "vendor": "Tottoms",
     "productType": "cpb_product",
     "tags": "Standard Crazy Cart",
-    "descriptionHtml": "<p class=\"isSelectedEnd\"><meta charset=\"utf-8\"><strong>For Standard Crazy Cart V2+ </strong></p>\n<p class=\"isSelectedEnd\">Included standard with every PRO Kit:</p>\n<p class=\"isSelectedEnd\">Hydraulic brakes, digital display with ride modes, belt drive system, and the Tottoms sealed headset are included in the kit price.</p>\n<p class=\"isSelectedEnd\">See the full <em>\"What’s in the Box\"</em> section below.</p>",
+    "descriptionHtml": "<p class=\"isSelectedEnd\"><meta charset=\"utf-8\"><strong>For Standard Crazy Cart V2+ </strong></p>\n<p class=\"isSelectedEnd\">Included standard with every PRO Kit:</p>\n<p class=\"isSelectedEnd\">Hydraulic brakes, digital display with ride modes, belt drive system, and the Tottoms sealed headset are included in the kit price.</p>\n<p class=\"isSelectedEnd\">See the full <em>\"What\u2019s in the Box\"</em> section below.</p>",
     "options": [
       {
         "name": "Battery Option",
@@ -1448,7 +1448,7 @@
       {
         "id": 47108620910748,
         "title": "No Battery 36v Tune / Gloss Black",
-        "price": "1299.00",
+        "price": "649.50",
         "compareAtPrice": "1099.00",
         "option1": "No Battery 36v Tune",
         "option2": "Gloss Black",
@@ -1458,7 +1458,7 @@
       {
         "id": 47108620943516,
         "title": "No Battery 36v Tune / Matte Black",
-        "price": "1299.00",
+        "price": "649.50",
         "compareAtPrice": "1099.00",
         "option1": "No Battery 36v Tune",
         "option2": "Matte Black",
@@ -1468,7 +1468,7 @@
       {
         "id": 47108620976284,
         "title": "No Battery 36v Tune / Gloss White",
-        "price": "1299.00",
+        "price": "649.50",
         "compareAtPrice": "1099.00",
         "option1": "No Battery 36v Tune",
         "option2": "Gloss White",
@@ -1478,7 +1478,7 @@
       {
         "id": 47114438443164,
         "title": "No Battery 36v Tune / Custom Color",
-        "price": "1399.00",
+        "price": "699.50",
         "compareAtPrice": "1099.00",
         "option1": "No Battery 36v Tune",
         "option2": "Custom Color",
@@ -1488,7 +1488,7 @@
       {
         "id": 47109190189212,
         "title": "No Battery 48v Tune / Gloss Black",
-        "price": "1299.00",
+        "price": "649.50",
         "compareAtPrice": "1099.00",
         "option1": "No Battery 48v Tune",
         "option2": "Gloss Black",
@@ -1498,7 +1498,7 @@
       {
         "id": 47109190320284,
         "title": "No Battery 48v Tune / Matte Black",
-        "price": "1299.00",
+        "price": "649.50",
         "compareAtPrice": "1099.00",
         "option1": "No Battery 48v Tune",
         "option2": "Matte Black",
@@ -1508,7 +1508,7 @@
       {
         "id": 47109190451356,
         "title": "No Battery 48v Tune / Gloss White",
-        "price": "1299.00",
+        "price": "649.50",
         "compareAtPrice": "1099.00",
         "option1": "No Battery 48v Tune",
         "option2": "Gloss White",
@@ -1518,7 +1518,7 @@
       {
         "id": 47114438475932,
         "title": "No Battery 48v Tune / Custom Color",
-        "price": "1399.00",
+        "price": "699.50",
         "compareAtPrice": "1099.00",
         "option1": "No Battery 48v Tune",
         "option2": "Custom Color",
@@ -1528,7 +1528,7 @@
       {
         "id": 47109190221980,
         "title": "No Battery 60v Tune / Gloss Black",
-        "price": "1299.00",
+        "price": "649.50",
         "compareAtPrice": "1099.00",
         "option1": "No Battery 60v Tune",
         "option2": "Gloss Black",
@@ -1538,7 +1538,7 @@
       {
         "id": 47109190353052,
         "title": "No Battery 60v Tune / Matte Black",
-        "price": "1299.00",
+        "price": "649.50",
         "compareAtPrice": "1099.00",
         "option1": "No Battery 60v Tune",
         "option2": "Matte Black",
@@ -1548,7 +1548,7 @@
       {
         "id": 47109190484124,
         "title": "No Battery 60v Tune / Gloss White",
-        "price": "1299.00",
+        "price": "649.50",
         "compareAtPrice": "1099.00",
         "option1": "No Battery 60v Tune",
         "option2": "Gloss White",
@@ -1558,7 +1558,7 @@
       {
         "id": 47114438508700,
         "title": "No Battery 60v Tune / Custom Color",
-        "price": "1399.00",
+        "price": "699.50",
         "compareAtPrice": "1099.00",
         "option1": "No Battery 60v Tune",
         "option2": "Custom Color",
@@ -1568,7 +1568,7 @@
       {
         "id": 47126394863772,
         "title": "36v 12ah Amorge Battery (Metal Case) +$300 / Gloss Black",
-        "price": "1599.00",
+        "price": "799.50",
         "compareAtPrice": "1099.00",
         "option1": "36v 12ah Amorge Battery (Metal Case) +$300",
         "option2": "Gloss Black",
@@ -1578,7 +1578,7 @@
       {
         "id": 47126394896540,
         "title": "36v 12ah Amorge Battery (Metal Case) +$300 / Matte Black",
-        "price": "1599.00",
+        "price": "799.50",
         "compareAtPrice": "1099.00",
         "option1": "36v 12ah Amorge Battery (Metal Case) +$300",
         "option2": "Matte Black",
@@ -1588,7 +1588,7 @@
       {
         "id": 47126394929308,
         "title": "36v 12ah Amorge Battery (Metal Case) +$300 / Gloss White",
-        "price": "1599.00",
+        "price": "799.50",
         "compareAtPrice": "1099.00",
         "option1": "36v 12ah Amorge Battery (Metal Case) +$300",
         "option2": "Gloss White",
@@ -1598,7 +1598,7 @@
       {
         "id": 47126394962076,
         "title": "36v 12ah Amorge Battery (Metal Case) +$300 / Custom Color",
-        "price": "1699.00",
+        "price": "849.50",
         "compareAtPrice": "1099.00",
         "option1": "36v 12ah Amorge Battery (Metal Case) +$300",
         "option2": "Custom Color",
@@ -1608,7 +1608,7 @@
       {
         "id": 47109190254748,
         "title": "48v 16ah Amorge Battery (Metal Case) +$400 / Gloss Black",
-        "price": "1699.00",
+        "price": "849.50",
         "compareAtPrice": "1099.00",
         "option1": "48v 16ah Amorge Battery (Metal Case) +$400",
         "option2": "Gloss Black",
@@ -1618,7 +1618,7 @@
       {
         "id": 47109190385820,
         "title": "48v 16ah Amorge Battery (Metal Case) +$400 / Matte Black",
-        "price": "1699.00",
+        "price": "849.50",
         "compareAtPrice": "1099.00",
         "option1": "48v 16ah Amorge Battery (Metal Case) +$400",
         "option2": "Matte Black",
@@ -1628,7 +1628,7 @@
       {
         "id": 47109190516892,
         "title": "48v 16ah Amorge Battery (Metal Case) +$400 / Gloss White",
-        "price": "1699.00",
+        "price": "849.50",
         "compareAtPrice": "1099.00",
         "option1": "48v 16ah Amorge Battery (Metal Case) +$400",
         "option2": "Gloss White",
@@ -1638,7 +1638,7 @@
       {
         "id": 47114438541468,
         "title": "48v 16ah Amorge Battery (Metal Case) +$400 / Custom Color",
-        "price": "1799.00",
+        "price": "899.50",
         "compareAtPrice": "1099.00",
         "option1": "48v 16ah Amorge Battery (Metal Case) +$400",
         "option2": "Custom Color",
@@ -1648,7 +1648,7 @@
       {
         "id": 47109190287516,
         "title": "60v 16ah Amorge Battery (Metal Case) +$500 / Gloss Black",
-        "price": "1799.00",
+        "price": "899.50",
         "compareAtPrice": "1099.00",
         "option1": "60v 16ah Amorge Battery (Metal Case) +$500",
         "option2": "Gloss Black",
@@ -1658,7 +1658,7 @@
       {
         "id": 47109190418588,
         "title": "60v 16ah Amorge Battery (Metal Case) +$500 / Matte Black",
-        "price": "1799.00",
+        "price": "899.50",
         "compareAtPrice": "1099.00",
         "option1": "60v 16ah Amorge Battery (Metal Case) +$500",
         "option2": "Matte Black",
@@ -1668,7 +1668,7 @@
       {
         "id": 47109190549660,
         "title": "60v 16ah Amorge Battery (Metal Case) +$500 / Gloss White",
-        "price": "1799.00",
+        "price": "899.50",
         "compareAtPrice": "1099.00",
         "option1": "60v 16ah Amorge Battery (Metal Case) +$500",
         "option2": "Gloss White",
@@ -1678,7 +1678,7 @@
       {
         "id": 47114438574236,
         "title": "60v 16ah Amorge Battery (Metal Case) +$500 / Custom Color",
-        "price": "1899.00",
+        "price": "949.50",
         "compareAtPrice": "1099.00",
         "option1": "60v 16ah Amorge Battery (Metal Case) +$500",
         "option2": "Custom Color",
@@ -1694,7 +1694,7 @@
     "vendor": "Tottoms",
     "productType": "",
     "tags": "Standard Crazy Cart",
-    "descriptionHtml": "<p class=\"isSelectedEnd\"><span>Precision-machined 72-tooth belt drive rim for 200×50 tires. Designed for smooth power transfer, reliable belt engagement, and long-lasting performance.</span></p>\n<p><span>NOTE: For <strong>HTD5M</strong> belts only.</span></p>\n<p><strong>Requires custom spacers to work with forks.</strong></p>",
+    "descriptionHtml": "<p class=\"isSelectedEnd\"><span>Precision-machined 72-tooth belt drive rim for 200\u00d750 tires. Designed for smooth power transfer, reliable belt engagement, and long-lasting performance.</span></p>\n<p><span>NOTE: For <strong>HTD5M</strong> belts only.</span></p>\n<p><strong>Requires custom spacers to work with forks.</strong></p>",
     "options": [
       {
         "name": "Tire Option",
@@ -1755,7 +1755,7 @@
       {
         "id": 45889716289692,
         "title": "No Tire / No Brake Disc / No Do Not Include",
-        "price": "20.00",
+        "price": "10.00",
         "compareAtPrice": null,
         "option1": "No Tire",
         "option2": "No Brake Disc",
@@ -1765,7 +1765,7 @@
       {
         "id": 46747900149916,
         "title": "No Tire / No Brake Disc / Yes Include Spacers + $5",
-        "price": "20.00",
+        "price": "10.00",
         "compareAtPrice": null,
         "option1": "No Tire",
         "option2": "No Brake Disc",
@@ -1775,7 +1775,7 @@
       {
         "id": 45891453386908,
         "title": "No Tire / Include Brake Disc & Hub Adapter +$25 / No Do Not Include",
-        "price": "45.00",
+        "price": "22.50",
         "compareAtPrice": null,
         "option1": "No Tire",
         "option2": "Include Brake Disc & Hub Adapter +$25",
@@ -1785,7 +1785,7 @@
       {
         "id": 46747900182684,
         "title": "No Tire / Include Brake Disc & Hub Adapter +$25 / Yes Include Spacers + $5",
-        "price": "20.00",
+        "price": "10.00",
         "compareAtPrice": null,
         "option1": "No Tire",
         "option2": "Include Brake Disc & Hub Adapter +$25",
@@ -1795,7 +1795,7 @@
       {
         "id": 45889716322460,
         "title": "Include CST Tire +$15 / No Brake Disc / No Do Not Include",
-        "price": "35.00",
+        "price": "17.50",
         "compareAtPrice": null,
         "option1": "Include CST Tire +$15",
         "option2": "No Brake Disc",
@@ -1805,7 +1805,7 @@
       {
         "id": 46747900215452,
         "title": "Include CST Tire +$15 / No Brake Disc / Yes Include Spacers + $5",
-        "price": "20.00",
+        "price": "10.00",
         "compareAtPrice": null,
         "option1": "Include CST Tire +$15",
         "option2": "No Brake Disc",
@@ -1815,7 +1815,7 @@
       {
         "id": 45891453419676,
         "title": "Include CST Tire +$15 / Include Brake Disc & Hub Adapter +$25 / No Do Not Include",
-        "price": "60.00",
+        "price": "30.00",
         "compareAtPrice": null,
         "option1": "Include CST Tire +$15",
         "option2": "Include Brake Disc & Hub Adapter +$25",
@@ -1825,7 +1825,7 @@
       {
         "id": 46747900248220,
         "title": "Include CST Tire +$15 / Include Brake Disc & Hub Adapter +$25 / Yes Include Spacers + $5",
-        "price": "20.00",
+        "price": "10.00",
         "compareAtPrice": null,
         "option1": "Include CST Tire +$15",
         "option2": "Include Brake Disc & Hub Adapter +$25",
@@ -1835,7 +1835,7 @@
       {
         "id": 46747900280988,
         "title": "Include Stock Tire + $10 / No Brake Disc / No Do Not Include",
-        "price": "20.00",
+        "price": "10.00",
         "compareAtPrice": null,
         "option1": "Include Stock Tire + $10",
         "option2": "No Brake Disc",
@@ -1845,7 +1845,7 @@
       {
         "id": 46747900313756,
         "title": "Include Stock Tire + $10 / No Brake Disc / Yes Include Spacers + $5",
-        "price": "20.00",
+        "price": "10.00",
         "compareAtPrice": null,
         "option1": "Include Stock Tire + $10",
         "option2": "No Brake Disc",
@@ -1855,7 +1855,7 @@
       {
         "id": 46747900346524,
         "title": "Include Stock Tire + $10 / Include Brake Disc & Hub Adapter +$25 / No Do Not Include",
-        "price": "20.00",
+        "price": "10.00",
         "compareAtPrice": null,
         "option1": "Include Stock Tire + $10",
         "option2": "Include Brake Disc & Hub Adapter +$25",
@@ -1865,7 +1865,7 @@
       {
         "id": 46747900379292,
         "title": "Include Stock Tire + $10 / Include Brake Disc & Hub Adapter +$25 / Yes Include Spacers + $5",
-        "price": "20.00",
+        "price": "10.00",
         "compareAtPrice": null,
         "option1": "Include Stock Tire + $10",
         "option2": "Include Brake Disc & Hub Adapter +$25",
@@ -1881,7 +1881,7 @@
     "vendor": "Tottoms",
     "productType": "",
     "tags": "Standard Crazy Cart",
-    "descriptionHtml": "<p>Please note that the belt length is <strong>550mm</strong> long.</p>\n<p><strong>Note: </strong>Majority of our kits use the 520mm belt.<strong> All of our belts have the size listed on the belt itself. Check your current crazy cart belt size and make sure this is compatible.</strong></p>\n<p> </p>",
+    "descriptionHtml": "<p>Please note that the belt length is\u00a0<strong>550mm</strong> long.</p>\n<p><strong>Note:\u00a0</strong>Majority of our kits use the 520mm belt.<strong> All of our belts have the size listed on the belt itself. Check your current crazy cart belt size and make sure this is compatible.</strong></p>\n<p>\u00a0</p>",
     "options": [
       {
         "name": "Title",
@@ -1902,7 +1902,7 @@
       {
         "id": 45889897136284,
         "title": "Default Title",
-        "price": "49.00",
+        "price": "24.50",
         "compareAtPrice": null,
         "option1": "Default Title",
         "option2": null,
@@ -1918,7 +1918,7 @@
     "vendor": "Tottoms",
     "productType": "",
     "tags": "Standard Crazy Cart",
-    "descriptionHtml": "<p>Please note that the belt length is <strong>520mm</strong><span> </span>long.</p>\n<p><strong>Note: </strong>Majority of our kits use the 520mm belt.<strong><span> </span>All of our belts have the size listed on the belt itself. Check your current crazy cart belt size and make sure this is compatible.</strong></p>",
+    "descriptionHtml": "<p>Please note that the belt length is\u00a0<strong>520mm</strong><span>\u00a0</span>long.</p>\n<p><strong>Note:\u00a0</strong>Majority of our kits use the 520mm belt.<strong><span>\u00a0</span>All of our belts have the size listed on the belt itself. Check your current crazy cart belt size and make sure this is compatible.</strong></p>",
     "options": [
       {
         "name": "Title",
@@ -1939,7 +1939,7 @@
       {
         "id": 45889897496732,
         "title": "Default Title",
-        "price": "49.00",
+        "price": "24.50",
         "compareAtPrice": null,
         "option1": "Default Title",
         "option2": null,
@@ -1988,7 +1988,7 @@
       {
         "id": 45889902772380,
         "title": "Default Title",
-        "price": "16.49",
+        "price": "8.24",
         "compareAtPrice": null,
         "option1": "Default Title",
         "option2": null,
@@ -2004,7 +2004,7 @@
     "vendor": "Tottoms",
     "productType": "",
     "tags": "Standard Crazy Cart",
-    "descriptionHtml": "<p>Brake Mount for the Tottoms PRO Fork system.</p>\n<p><strong>NOTE: </strong>This will not work on stock forks, this only works for the Tottoms PRO Fork system.</p>",
+    "descriptionHtml": "<p>Brake Mount for the Tottoms PRO Fork system.</p>\n<p><strong>NOTE:\u00a0</strong>This will not work on stock forks, this only works for the Tottoms PRO Fork system.</p>",
     "options": [
       {
         "name": "Title",
@@ -2025,7 +2025,7 @@
       {
         "id": 45889905655964,
         "title": "Default Title",
-        "price": "29.00",
+        "price": "14.50",
         "compareAtPrice": null,
         "option1": "Default Title",
         "option2": null,
@@ -2062,7 +2062,7 @@
       {
         "id": 45889905787036,
         "title": "Default Title",
-        "price": "20.00",
+        "price": "10.00",
         "compareAtPrice": null,
         "option1": "Default Title",
         "option2": null,
@@ -2112,7 +2112,7 @@
       {
         "id": 45889905885340,
         "title": "Standard Kart",
-        "price": "25.00",
+        "price": "12.50",
         "compareAtPrice": null,
         "option1": "Standard Kart",
         "option2": null,
@@ -2122,7 +2122,7 @@
       {
         "id": 45889905918108,
         "title": "XL Kart",
-        "price": "25.00",
+        "price": "12.50",
         "compareAtPrice": null,
         "option1": "XL Kart",
         "option2": null,
@@ -2159,7 +2159,7 @@
       {
         "id": 45889906016412,
         "title": "Default Title",
-        "price": "10.00",
+        "price": "5.00",
         "compareAtPrice": null,
         "option1": "Default Title",
         "option2": null,
@@ -2196,7 +2196,7 @@
       {
         "id": 45889906147484,
         "title": "Default Title",
-        "price": "19.00",
+        "price": "9.50",
         "compareAtPrice": null,
         "option1": "Default Title",
         "option2": null,
@@ -2233,7 +2233,7 @@
       {
         "id": 45889907785884,
         "title": "Default Title",
-        "price": "20.00",
+        "price": "10.00",
         "compareAtPrice": null,
         "option1": "Default Title",
         "option2": null,
@@ -2282,7 +2282,7 @@
       {
         "id": 45889908015260,
         "title": "Default Title",
-        "price": "39.00",
+        "price": "19.50",
         "compareAtPrice": null,
         "option1": "Default Title",
         "option2": null,
@@ -2319,7 +2319,7 @@
       {
         "id": 45890850685084,
         "title": "Default Title",
-        "price": "69.00",
+        "price": "34.50",
         "compareAtPrice": null,
         "option1": "Default Title",
         "option2": null,
@@ -2416,7 +2416,7 @@
       {
         "id": 46010347847836,
         "title": "Default Title",
-        "price": "3499.00",
+        "price": "1749.50",
         "compareAtPrice": null,
         "option1": "Default Title",
         "option2": null,
@@ -2489,7 +2489,7 @@
       {
         "id": 46010529710236,
         "title": "Default Title",
-        "price": "3499.00",
+        "price": "1749.50",
         "compareAtPrice": null,
         "option1": "Default Title",
         "option2": null,
@@ -2580,7 +2580,7 @@
       {
         "id": 46195495895196,
         "title": "Default Title",
-        "price": "2999.00",
+        "price": "1499.50",
         "compareAtPrice": null,
         "option1": "Default Title",
         "option2": null,
@@ -2637,7 +2637,7 @@
       {
         "id": 47102318936220,
         "title": "36v Tune",
-        "price": "229.00",
+        "price": "114.50",
         "compareAtPrice": null,
         "option1": "36v Tune",
         "option2": null,
@@ -2647,7 +2647,7 @@
       {
         "id": 47102318968988,
         "title": "48v Tune",
-        "price": "229.00",
+        "price": "114.50",
         "compareAtPrice": null,
         "option1": "48v Tune",
         "option2": null,
@@ -2657,7 +2657,7 @@
       {
         "id": 47102319001756,
         "title": "60v Tune",
-        "price": "229.00",
+        "price": "114.50",
         "compareAtPrice": null,
         "option1": "60v Tune",
         "option2": null,
@@ -2670,7 +2670,7 @@
     "id": 8960955154588,
     "handle": "tottoms-joker-v2-pro-kart",
     "title": "JOKER Belt Drive PRO Kart",
-    "vendor": "2026 TOTTOMS™ PRO KART",
+    "vendor": "2026 TOTTOMS\u2122 PRO KART",
     "productType": "",
     "tags": "Standard Crazy Cart",
     "descriptionHtml": "",
@@ -2784,7 +2784,7 @@
       {
         "id": 46594277015708,
         "title": "Default Title",
-        "price": "3499.00",
+        "price": "1749.50",
         "compareAtPrice": null,
         "option1": "Default Title",
         "option2": null,
@@ -2800,7 +2800,7 @@
     "vendor": "Tottoms",
     "productType": "",
     "tags": "Standard Crazy Cart",
-    "descriptionHtml": "<p><b><strong>2026 TOTTOMS™ PRO KART</strong></b></p>\n<p><b>Top Speed 45mph (with 60v)</b></p>\n<p>The new<span> </span><strong>2026 Edition</strong></p>\n<p>Designed for<span> both </span><strong>teens and adults up to 6'4 with the adjustable seat upgrade. </strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Built for the spots you've been eyeing. Empty parking lots, smooth streets, late night sessions with your crew. This kart is designed for durability, smoothness, speed, and extended battery life.</p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>Why does it cost $2,699?</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">You're not paying for a DIY build. You're paying for years of development that went into building something that actually rips.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">You're paying for a full brushless powertrain with the ability to tune the kart through a simple phone app. You're paying for the Tottoms PRO fork system, which gives you access to our hydraulic brake kit and a PRO fork lifetime warranty. You're getting a sealed headset compared to the stock open bearing setup, giving you smooth and precise steering every time.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">You're paying for the Tottoms caster upgrade, built with sealed bearings that keep the grime out and support the wider longboard wheels designed for high speed and durability. You're paying for our high quality lithium batteries that don't sag under high load and deliver instant torque. </p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">And most of all, you're getting something that took years of testing and real world development to get right. One of the most reliable and easy to maintain setups on the market today.</p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>How fast does it go?</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">That depends on the voltage you pick at checkout. Same kart, same motor, different battery.</p>\n<div class=\"overflow-x-auto w-full px-2 mb-6\">\n<p>36V — 1,080W — ~25 mph — Learning, technical spots</p>\n<p>48V — 2,880W — ~35 mph — Most popular, great all-rounder</p>\n<p>60V — 4,000W — ~45 mph — Maximum performance and torque</p>\n</div>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Not sure which to pick? Start with 48V. It's our most popular setup, fast enough to be genuinely exciting, controlled enough to learn on, and you can always upgrade to 60V later with a battery swap. No new motor required.</p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>How far can it go?</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><meta charset=\"utf-8\">36V — 10 to 15 miles range — 6 to 8 hour charge time</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">48V — 20+ miles range — 3 to 4 hour charge time</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">60V — 20+ miles range — 2 to 3 hour charge time</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">All on a single charge. Enough to go out, explore, and come back without thinking about the battery.</p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>What makes Tottoms PRO Karts different.</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">We were the first company to build fully brushless pre-built crazy carts. Brushless means more power, more efficiency, less heat, longer life and less maintenance. Other companies may still be running brushed setups or don't have nearly the experience that we do.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">We also run belt drive instead of chain. Smoother, quieter, and it doesn't stretch over time the way a chain does. Less maintenance and better power delivery on every session.</p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>What's included.</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Every PRO Kart ships fully assembled and pre-tested. You ride it, you don't build it.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong><span style=\"text-decoration: underline;\">PRO Kart</span></strong></p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Tottoms PRO Kart</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x PRO Fork with Hydraulic Brakes</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Belt Drive System</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Brushless Powertrain</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Lithium Battery</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Caster Upgrade</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Lithium 5A Battery Charger</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><span style=\"text-decoration: underline;\"><strong>Display (if opted)</strong></span></p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Pre-Installed Display</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Display to VESC Adapter</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">2x Mounting Hardware</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><span style=\"text-decoration: underline;\"><strong>Adjustable Seat (if opted)</strong></span></p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Adjustable Cushioned Seat</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Pre-Installed Seat Adapter Plate</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><span style=\"text-decoration: underline;\"><strong>Underglow Kit (if opted)</strong></span></p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Pre-Installed Underglow</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x 12V Battery Pack</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x 12V Battery Charger</p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>Optional add-ons at checkout.</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">3.5\" Display: real-time speed, battery percentage, motor and controller temps, and an on-the-fly speed and power selector. </p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">Adjustable cushioned seat, fits riders up to 6'4\".</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">LED underglow kit, pre-installed.</p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>Hand assembled in Florida.</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Every kart is built and tested by hand before it ships. </p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Weight limit: 225 to 250 lbs. Kart weight: approximately 75 to 85 lbs depending on spec.</p>",
+    "descriptionHtml": "<p><b><strong>2026 TOTTOMS\u2122 PRO KART</strong></b></p>\n<p><b>Top Speed 45mph (with 60v)</b></p>\n<p>The new<span>\u00a0</span><strong>2026 Edition</strong></p>\n<p>Designed for<span> both </span><strong>teens and adults up to 6'4 with the adjustable seat upgrade.\u00a0</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Built for the spots you've been eyeing. Empty parking lots, smooth streets, late night sessions with your crew. This kart is designed for durability, smoothness, speed, and extended battery life.</p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>Why does it cost $2,699?</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">You're not paying for a DIY build. You're paying for years of development that went into building something that actually rips.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">You're paying for a full brushless powertrain with the ability to tune the kart through a simple phone app. You're paying for the Tottoms PRO fork system, which gives you access to our hydraulic brake kit and a PRO fork lifetime warranty. You're getting a sealed headset compared to the stock open bearing setup, giving you smooth and precise steering every time.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">You're paying for the Tottoms caster upgrade, built with sealed bearings that keep the grime out and support the wider longboard wheels designed for high speed and durability. You're paying for our high quality lithium batteries that don't sag under high load and deliver instant torque.\u00a0</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">And most of all, you're getting something that took years of testing and real world development to get right. One of the most reliable and easy to maintain setups on the market today.</p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>How fast does it go?</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">That depends on the voltage you pick at checkout. Same kart, same motor, different battery.</p>\n<div class=\"overflow-x-auto w-full px-2 mb-6\">\n<p>36V \u2014 1,080W \u2014 ~25 mph \u2014 Learning, technical spots</p>\n<p>48V \u2014 2,880W \u2014 ~35 mph \u2014 Most popular, great all-rounder</p>\n<p>60V \u2014 4,000W \u2014 ~45 mph \u2014 Maximum performance and torque</p>\n</div>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Not sure which to pick? Start with 48V. It's our most popular setup, fast enough to be genuinely exciting, controlled enough to learn on, and you can always upgrade to 60V later with a battery swap. No new motor required.</p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>How far can it go?</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><meta charset=\"utf-8\">36V \u2014 10 to 15 miles range \u2014 6 to 8 hour charge time</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">48V \u2014 20+ miles range \u2014 3 to 4 hour charge time</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">60V \u2014 20+ miles range \u2014 2 to 3 hour charge time</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">All on a single charge. Enough to go out, explore, and come back without thinking about the battery.</p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>What makes Tottoms PRO Karts different.</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">We were the first company to build fully brushless pre-built crazy carts. Brushless means more power, more efficiency, less heat, longer life and less maintenance. Other companies may still be running brushed setups or don't have nearly the experience that we do.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">We also run belt drive instead of chain. Smoother, quieter, and it doesn't stretch over time the way a chain does. Less maintenance and better power delivery on every session.</p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>What's included.</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Every PRO Kart ships fully assembled and pre-tested. You ride it, you don't build it.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong><span style=\"text-decoration: underline;\">PRO Kart</span></strong></p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Tottoms PRO Kart</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x PRO Fork with Hydraulic Brakes</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Belt Drive System</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Brushless Powertrain</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Lithium Battery</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Caster Upgrade</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Lithium 5A Battery Charger</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><span style=\"text-decoration: underline;\"><strong>Display (if opted)</strong></span></p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Pre-Installed Display</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Display to VESC Adapter</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">2x Mounting Hardware</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><span style=\"text-decoration: underline;\"><strong>Adjustable Seat (if opted)</strong></span></p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Adjustable Cushioned Seat</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Pre-Installed Seat Adapter Plate</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><span style=\"text-decoration: underline;\"><strong>Underglow Kit (if opted)</strong></span></p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x Pre-Installed Underglow</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x 12V Battery Pack</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">1x 12V Battery Charger</p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>Optional add-ons at checkout.</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">3.5\" Display: real-time speed, battery percentage, motor and controller temps, and an on-the-fly speed and power selector.\u00a0</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">Adjustable cushioned seat, fits riders up to 6'4\".</p>\n<p class=\"font-claude-response-body break-words whitespace-pre-wrap leading-[1.7]\">LED underglow kit, pre-installed.</p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><strong>Hand assembled in Florida.</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Every kart is built and tested by hand before it ships.\u00a0</p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Weight limit: 225 to 250 lbs. Kart weight: approximately 75 to 85 lbs depending on spec.</p>",
     "options": [
       {
         "name": "Title",
@@ -2881,7 +2881,7 @@
       {
         "id": 46660358373532,
         "title": "Default Title",
-        "price": "2799.00",
+        "price": "1399.50",
         "compareAtPrice": null,
         "option1": "Default Title",
         "option2": null,
@@ -2984,7 +2984,7 @@
       {
         "id": 46660380328092,
         "title": "Default Title",
-        "price": "3499.00",
+        "price": "1749.50",
         "compareAtPrice": null,
         "option1": "Default Title",
         "option2": null,
@@ -3118,7 +3118,7 @@
       {
         "id": 46983318896796,
         "title": "Default Title",
-        "price": "1799.00",
+        "price": "899.50",
         "compareAtPrice": "1499.00",
         "option1": "Default Title",
         "option2": null,
@@ -3134,7 +3134,7 @@
     "vendor": "Tottoms",
     "productType": "",
     "tags": "Crazy Cart XL",
-    "descriptionHtml": "<p><meta charset=\"utf-8\"><strong>Built for the bigger rider.</strong></p>\n<p><meta charset=\"utf-8\"><strong>DEMO BUILD SPECIAL – SAVE $500</strong><br data-start=\"442\" data-end=\"445\">Featured in Tottoms promotional content and may show minor cosmetic wear. Fully inspected, refreshed, and ready for its first owner.</p>",
+    "descriptionHtml": "<p><meta charset=\"utf-8\"><strong>Built for the bigger rider.</strong></p>\n<p><meta charset=\"utf-8\"><strong>DEMO BUILD SPECIAL \u2013 SAVE $500</strong><br data-start=\"442\" data-end=\"445\">Featured in Tottoms promotional content and may show minor cosmetic wear. Fully inspected, refreshed, and ready for its first owner.</p>",
     "options": [
       {
         "name": "Title",
@@ -3179,7 +3179,7 @@
       {
         "id": 47090374017180,
         "title": "Default Title",
-        "price": "4249.00",
+        "price": "2124.50",
         "compareAtPrice": "4749.00",
         "option1": "Default Title",
         "option2": null,
@@ -3222,7 +3222,7 @@
       {
         "id": 47101181296796,
         "title": "Default Title",
-        "price": "14.99",
+        "price": "7.50",
         "compareAtPrice": null,
         "option1": "Default Title",
         "option2": null,
@@ -3252,7 +3252,7 @@
       {
         "id": 47101917135004,
         "title": "Default Title",
-        "price": "4.99",
+        "price": "2.50",
         "compareAtPrice": null,
         "option1": "Default Title",
         "option2": null,
@@ -3268,7 +3268,7 @@
     "vendor": "XL GT-ONE PRODUCTION SLOT",
     "productType": "",
     "tags": "Crazy Cart XL",
-    "descriptionHtml": "<p>Reserve one of the next XL GT-ONE custom builds. Every build includes the full GT-ONE performance package with the final color confirmed after checkout.</p>\n<p>🗓 Estimated Completion: Jul-Aug 2026</p>",
+    "descriptionHtml": "<p>Reserve one of the next XL GT-ONE custom builds. Every build includes the full GT-ONE performance package with the final color confirmed after checkout.</p>\n<p>\ud83d\uddd3 Estimated Completion: Jul-Aug 2026</p>",
     "options": [
       {
         "name": "Select your color preference",
@@ -3310,7 +3310,7 @@
       {
         "id": 47106278260892,
         "title": "Tottoms Red",
-        "price": "4749.00",
+        "price": "2374.50",
         "compareAtPrice": null,
         "option1": "Tottoms Red",
         "option2": null,
@@ -3320,7 +3320,7 @@
       {
         "id": 47106278424732,
         "title": "Gloss Black",
-        "price": "4749.00",
+        "price": "2374.50",
         "compareAtPrice": null,
         "option1": "Gloss Black",
         "option2": null,
@@ -3330,7 +3330,7 @@
       {
         "id": 47106278588572,
         "title": "Gloss White",
-        "price": "4749.00",
+        "price": "2374.50",
         "compareAtPrice": null,
         "option1": "Gloss White",
         "option2": null,
@@ -3340,7 +3340,7 @@
       {
         "id": 47106290286748,
         "title": "Custom Color",
-        "price": "4749.00",
+        "price": "2374.50",
         "compareAtPrice": null,
         "option1": "Custom Color",
         "option2": null,
@@ -3356,7 +3356,7 @@
     "vendor": "XL GT-ONE PRODUCTION SLOT",
     "productType": "",
     "tags": "Crazy Cart XL",
-    "descriptionHtml": "<p>Reserve one of the next XL GT-ONE custom builds. Every build includes the full GT-ONE performance package with the final color confirmed after checkout.</p>\n<p>🗓 Estimated Completion: Jul-Aug 2026</p>",
+    "descriptionHtml": "<p>Reserve one of the next XL GT-ONE custom builds. Every build includes the full GT-ONE performance package with the final color confirmed after checkout.</p>\n<p>\ud83d\uddd3 Estimated Completion: Jul-Aug 2026</p>",
     "options": [
       {
         "name": "Select your color preference",
@@ -3392,7 +3392,7 @@
       {
         "id": 47106494136476,
         "title": "Tottoms Red",
-        "price": "4749.00",
+        "price": "2374.50",
         "compareAtPrice": null,
         "option1": "Tottoms Red",
         "option2": null,
@@ -3402,7 +3402,7 @@
       {
         "id": 47106494169244,
         "title": "Gloss Black",
-        "price": "4749.00",
+        "price": "2374.50",
         "compareAtPrice": null,
         "option1": "Gloss Black",
         "option2": null,
@@ -3412,7 +3412,7 @@
       {
         "id": 47106494202012,
         "title": "Gloss White",
-        "price": "4749.00",
+        "price": "2374.50",
         "compareAtPrice": null,
         "option1": "Gloss White",
         "option2": null,
@@ -3422,7 +3422,7 @@
       {
         "id": 47106494234780,
         "title": "Custom Color",
-        "price": "4749.00",
+        "price": "2374.50",
         "compareAtPrice": null,
         "option1": "Custom Color",
         "option2": null,
@@ -3438,7 +3438,7 @@
     "vendor": "Tottoms",
     "productType": "",
     "tags": "Crazy Cart XL",
-    "descriptionHtml": "<p class=\"isSelectedEnd\"><strong>FOR CRAZY CART XL</strong></p>\n<p class=\"isSelectedEnd\"><span>Reserve <strong>one of only five</strong> of the next XL GT-ONE full plug-and-play kits.</span></p>\n<p><span>This is our complete kit for the Crazy Cart XL. It comes with all of the parts needed for the install like the 100v battery and digital display, so the only thing you need to pick is your fork color. You can see everything that comes standard with the kit below.</span></p>\n<p><em>Details subject to change</em></p>\n<p>🗓 Estimated Completion: Jul-Aug 2026</p>",
+    "descriptionHtml": "<p class=\"isSelectedEnd\"><strong>FOR CRAZY CART XL</strong></p>\n<p class=\"isSelectedEnd\"><span>Reserve\u00a0<strong>one of only five</strong> of the next XL GT-ONE full plug-and-play kits.</span></p>\n<p><span>This is our complete kit for the Crazy Cart XL. It comes with all of the parts needed for the install like the 100v battery and digital display, so the only thing you need to pick is your fork color. You can see everything that comes standard with the kit below.</span></p>\n<p><em>Details subject to change</em></p>\n<p>\ud83d\uddd3 Estimated Completion: Jul-Aug 2026</p>",
     "options": [
       {
         "name": "Fork Color",
@@ -3504,7 +3504,7 @@
       {
         "id": 47142362972316,
         "title": "Gloss Black",
-        "price": "2499.00",
+        "price": "1249.50",
         "compareAtPrice": null,
         "option1": "Gloss Black",
         "option2": null,
@@ -3514,7 +3514,7 @@
       {
         "id": 47142363005084,
         "title": "Matte Black",
-        "price": "2499.00",
+        "price": "1249.50",
         "compareAtPrice": null,
         "option1": "Matte Black",
         "option2": null,
@@ -3524,7 +3524,7 @@
       {
         "id": 47142363037852,
         "title": "Gloss White",
-        "price": "2499.00",
+        "price": "1249.50",
         "compareAtPrice": null,
         "option1": "Gloss White",
         "option2": null,
@@ -3534,7 +3534,7 @@
       {
         "id": 47142363070620,
         "title": "Custom Color",
-        "price": "2499.00",
+        "price": "1249.50",
         "compareAtPrice": null,
         "option1": "Custom Color",
         "option2": null,
@@ -3572,7 +3572,7 @@
       {
         "id": 47125783904412,
         "title": "Standard Crazy Cart",
-        "price": "149.00",
+        "price": "74.50",
         "compareAtPrice": null,
         "option1": "Standard Crazy Cart",
         "option2": null,
@@ -3582,7 +3582,7 @@
       {
         "id": 47125783937180,
         "title": "Crazy Cart XL",
-        "price": "149.00",
+        "price": "74.50",
         "compareAtPrice": null,
         "option1": "Crazy Cart XL",
         "option2": null,
@@ -3654,7 +3654,7 @@
       {
         "id": 47126088417436,
         "title": "No Ill Use My Own Fork / No Battery 36v Tune",
-        "price": "599.00",
+        "price": "299.50",
         "compareAtPrice": null,
         "option1": "No Ill Use My Own Fork",
         "option2": "No Battery 36v Tune",
@@ -3664,7 +3664,7 @@
       {
         "id": 47126088450204,
         "title": "No Ill Use My Own Fork / No Battery 48v Tune",
-        "price": "599.00",
+        "price": "299.50",
         "compareAtPrice": null,
         "option1": "No Ill Use My Own Fork",
         "option2": "No Battery 48v Tune",
@@ -3674,7 +3674,7 @@
       {
         "id": 47126088482972,
         "title": "No Ill Use My Own Fork / No Battery 60v Tune",
-        "price": "599.00",
+        "price": "299.50",
         "compareAtPrice": null,
         "option1": "No Ill Use My Own Fork",
         "option2": "No Battery 60v Tune",
@@ -3684,7 +3684,7 @@
       {
         "id": 47126088515740,
         "title": "No Ill Use My Own Fork / Include Amorge 36v 12Ah Battery (Metal Case) +$300",
-        "price": "899.00",
+        "price": "449.50",
         "compareAtPrice": null,
         "option1": "No Ill Use My Own Fork",
         "option2": "Include Amorge 36v 12Ah Battery (Metal Case) +$300",
@@ -3694,7 +3694,7 @@
       {
         "id": 47126088548508,
         "title": "No Ill Use My Own Fork / Include Amorge 48v 16Ah Battery (Metal Case) +$500",
-        "price": "1099.00",
+        "price": "549.50",
         "compareAtPrice": null,
         "option1": "No Ill Use My Own Fork",
         "option2": "Include Amorge 48v 16Ah Battery (Metal Case) +$500",
@@ -3704,7 +3704,7 @@
       {
         "id": 47126088581276,
         "title": "Yes Include Pre-Assembled Fork +$79 / No Battery 36v Tune",
-        "price": "678.00",
+        "price": "339.00",
         "compareAtPrice": null,
         "option1": "Yes Include Pre-Assembled Fork +$79",
         "option2": "No Battery 36v Tune",
@@ -3714,7 +3714,7 @@
       {
         "id": 47126088614044,
         "title": "Yes Include Pre-Assembled Fork +$79 / No Battery 48v Tune",
-        "price": "678.00",
+        "price": "339.00",
         "compareAtPrice": null,
         "option1": "Yes Include Pre-Assembled Fork +$79",
         "option2": "No Battery 48v Tune",
@@ -3724,7 +3724,7 @@
       {
         "id": 47126088646812,
         "title": "Yes Include Pre-Assembled Fork +$79 / No Battery 60v Tune",
-        "price": "678.00",
+        "price": "339.00",
         "compareAtPrice": null,
         "option1": "Yes Include Pre-Assembled Fork +$79",
         "option2": "No Battery 60v Tune",
@@ -3734,7 +3734,7 @@
       {
         "id": 47126088679580,
         "title": "Yes Include Pre-Assembled Fork +$79 / Include Amorge 36v 12Ah Battery (Metal Case) +$300",
-        "price": "978.00",
+        "price": "489.00",
         "compareAtPrice": null,
         "option1": "Yes Include Pre-Assembled Fork +$79",
         "option2": "Include Amorge 36v 12Ah Battery (Metal Case) +$300",
@@ -3744,7 +3744,7 @@
       {
         "id": 47126088712348,
         "title": "Yes Include Pre-Assembled Fork +$79 / Include Amorge 48v 16Ah Battery (Metal Case) +$500",
-        "price": "1178.00",
+        "price": "589.00",
         "compareAtPrice": null,
         "option1": "Yes Include Pre-Assembled Fork +$79",
         "option2": "Include Amorge 48v 16Ah Battery (Metal Case) +$500",
@@ -3774,7 +3774,7 @@
       {
         "id": 47142611386524,
         "title": "Default Title",
-        "price": "149.00",
+        "price": "74.50",
         "compareAtPrice": null,
         "option1": "Default Title",
         "option2": null,
@@ -3883,7 +3883,7 @@
       {
         "id": 47226628931740,
         "title": "Default Title",
-        "price": "2999.00",
+        "price": "1499.50",
         "compareAtPrice": "3499.00",
         "option1": "Default Title",
         "option2": null,
@@ -3962,7 +3962,7 @@
       {
         "id": 47226635223196,
         "title": "Default Title",
-        "price": "2999.00",
+        "price": "1499.50",
         "compareAtPrice": "3499.00",
         "option1": "Default Title",
         "option2": null,
