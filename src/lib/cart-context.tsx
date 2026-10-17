@@ -78,7 +78,16 @@ export function CartProvider({ children }: { children: React.ReactNode }) {
     setLines((prev) => prev.filter((l) => l.variantId !== variantId));
   }, []);
 
-  const clearCart = useCallback(() => setLines([]), []);
+  const clearCart = useCallback(() => {
+    // Also drop the stored copy: callers may run before the hydration effect
+    // above, which would otherwise restore the old cart from storage.
+    try {
+      window.localStorage.removeItem(STORAGE_KEY);
+    } catch {
+      // ignore unavailable storage
+    }
+    setLines([]);
+  }, []);
 
   const totalQuantity = useMemo(
     () => lines.reduce((sum, l) => sum + l.quantity, 0),
