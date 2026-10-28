@@ -1,6 +1,7 @@
 import Stripe from "stripe";
 import productsJson from "../../src/data/products.json";
 import type { Product, ProductVariant } from "../../src/lib/types";
+import { SHIPPING_COUNTRIES } from "../lib/shipping-countries";
 
 const products = productsJson as Record<string, Product>;
 
@@ -76,7 +77,7 @@ async function handler(req: Request) {
       mode: "payment",
       line_items: lineItems,
       phone_number_collection: { enabled: true },
-      shipping_address_collection: { allowed_countries: ["US"] },
+      shipping_address_collection: { allowed_countries: SHIPPING_COUNTRIES },
       success_url: `${origin}/order-confirmed?session_id={CHECKOUT_SESSION_ID}`,
       cancel_url: `${origin}/checkout`,
     });
